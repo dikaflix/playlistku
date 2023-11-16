@@ -41,6 +41,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="INDONESIA", TRANS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTIhd
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/60479
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTI
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV
@@ -318,118 +320,6 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&exten
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 4
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", &PRIVE HD-Rs 19
-http://116.90.98.4:5000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", &flix HD-Rs19
-http://116.90.98.4:5000/play/a057/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", &pictures -Rs19
-http://116.90.98.4:5000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", &tv HD - Rs 19
-http://116.90.98.4:5000/play/a0im/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", A SportsHD
-http://116.90.98.4:5000/play/a0gi/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", ABN News - HD
-http://116.90.98.4:5000/play/a0i0/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", ANIMAL PLAN-Rs3
-http://116.90.98.4:5000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", BBC WORLD - Rs 1
-http://116.90.98.4:5000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", CARTOON-Rs4.25
-http://116.90.98.4:5000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Colors HD-Rs 19
-http://116.90.98.4:5000/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Comedy Central-Rs 5
-http://116.90.98.4:5000/play/a0i1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", DISCOVERY K-Rs3
-http://116.90.98.4:5000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Discovery H-Rs6
-http://116.90.98.4:5000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Discovery S-Rs1
-http://116.90.98.4:5000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Discovery T-Rs1
-http://116.90.98.4:5000/play/a06l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Disney Chanel
-http://116.90.98.4:5000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Disney Jr.-Rs 4
-http://116.90.98.4:5000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", EuroSports HD-Rs 6
-http://116.90.98.4:5000/play/a06f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", FOX Life HD-Rs 1
-http://116.90.98.4:5000/play/a0gw/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", HISTORY TV1-Rs7
-http://116.90.98.4:5000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Investigation D-Rs1
-http://116.90.98.4:5000/play/a0hs/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", MN+ HD-Rs 10
-http://116.90.98.4:5000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", MOVIES NO-Rs 10
-http://116.90.98.4:5000/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", MTV - Rs 3
-http://116.90.98.4:5000/play/a0i9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", NATGEO WILD HD
-http://116.90.98.4:5000/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", National G-Rs10
-http://116.90.98.4:5000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Nick Jr.- Rs 1
-http://116.90.98.4:5000/play/a0ia/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", PIX HD - Rs 15
-http://116.90.98.4:5000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", PTV-SPORTS-HD
-http://116.90.98.4:5000/play/a0gf/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Pogo - Rs 4.25
-http://116.90.98.4:5000/play/a0hz/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Romedy NOW-Rs 6
-http://116.90.98.4:5000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SET HD - Rs 19
-http://116.90.98.4:5000/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SONIC- Rs 2
-http://116.90.98.4:5000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SONY MAX 2 - Rs 1
-http://116.90.98.4:5000/play/a06r/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SONY MAX HD
-http://116.90.98.4:5000/play/a046/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SONY SAB HD - Rs 19
-http://116.90.98.4:5000/play/a0in/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SONY SIX HD
-http://116.90.98.4:5000/play/a043/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SONY TEN 1HD
-http://116.90.98.4:5000/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SONY TEN 3HD
-http://116.90.98.4:5000/play/a049/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", STAR BHARA-Rs19
-http://116.90.98.4:5000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", STAR MOVI-Rs 19
-http://116.90.98.4:5000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", STAR SPORTS 1HD
-http://116.90.98.4:5000/play/a044/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", STAR SPORTS 2HD
-http://116.90.98.4:5000/play/a041/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Sony Ten 2 HD- Rs 17
-http://116.90.98.4:5000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", SonyBBCearthHD-Rs10
-http://116.90.98.4:5000/play/a0gj/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Sports18 1 HD-Rs12
-http://116.90.98.4:5000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star GOLD -Rs10
-http://116.90.98.4:5000/play/a05j/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star Gold 2- Rs 1
-http://116.90.98.4:5000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star Gold Romance- Rs 2
-http://116.90.98.4:5000/play/a0ie/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star Gold SelHD-Rs10
-http://116.90.98.4:5000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star Gold Thrills- Rs 2
-http://116.90.98.4:5000/play/a0id/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star Movi-Rs 10
-http://116.90.98.4:5000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star Plus -Rs19
-http://116.90.98.4:5000/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star Sport-Rs10
-http://116.90.98.4:5000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDIA TV", Star Sport-Rs19
-http://116.90.98.4:5000/play/a05p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
