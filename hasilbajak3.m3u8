@@ -77,6 +77,15 @@ http://muka03.wanicelife.com:8880/12nkk180112/48733427/60479
 #EXTINF:-1 tvg-id="" tvg-name="ID013:SOCCER CHANNEL HD" tvg-logo="" group-title=" 🏆LIVE WC🏆",ID013:SOCCER CHANNEL HD
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/60480
 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/manado/foto/bank/images/Live-RCTI-Jadwal-Irak-dan-Indonesia-di-Kualifikasi-Piala-Dunia-2026.jpg" group-title="#🏆QUALIF WC🏆#", LIVE 1 IRAQ VS INDONESIA
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/manado/foto/bank/images/Live-RCTI-Jadwal-Irak-dan-Indonesia-di-Kualifikasi-Piala-Dunia-2026.jpg" group-title="#🏆QUALIF WC🏆#", LIVE 2 IRAQ VS INDONESIA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/manado/foto/bank/images/Live-RCTI-Jadwal-Irak-dan-Indonesia-di-Kualifikasi-Piala-Dunia-2026.jpg" group-title="#🏆QUALIF WC🏆#", LIVE 3 IRAQ VS INDONESIA
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165054
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/manado/foto/bank/images/Live-RCTI-Jadwal-Irak-dan-Indonesia-di-Kualifikasi-Piala-Dunia-2026.jpg" group-title="#🏆QUALIF WC🏆#", LIVE 4 IRAQ VS INDONESIA
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=591576&extension=ts&play_token=ZuOu1yk1WD
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA", INDOSIAR
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital
