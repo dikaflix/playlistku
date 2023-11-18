@@ -57,23 +57,9 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626873&extens
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 12
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 2
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162141
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 3
-http://iptvtree.net:8080/devtv/5af3eeb538/162138
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 4
-http://iptvtree.net:8080/devtv/5af3eeb538/162141
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 5
-http://xtv.ooo:8080/3212571066/abc123/350972
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 6
-http://xtv.ooo:8080/3212571066/abc123/351030
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA", INDOSIAR
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital
-http://198.16.100.90:8278/Sctv/playlist.m3u8?tid=MEAE5576803555768035&ct=19249&tsum=22cd08338943a038eb9a5bcf2ff7cba3
 https://mantul.biz.id:443/ekos/748382/5286.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV Digital
 https://mantul.biz.id:443/ekos/748382/32.ts
