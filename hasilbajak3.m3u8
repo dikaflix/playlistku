@@ -452,7 +452,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
 
 =============MALAYSIA===============
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="MALAYSIA", TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="MALAYSIA", TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="MALAYSIA",TV 3
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/1732
+#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="MALAYSIA",NTV 7
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/1731
+#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="MALAYSIA",TV 8
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/1730
+#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="MALAYSIA",TV 9
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", BERNAMA NEWS
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571307&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="MALAYSIA", Nickelodeon
@@ -463,7 +475,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571261&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571260&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AURA
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571257&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO RANIA
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="MALAYSIA",BOO
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/1697
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571256&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", RUGBYPASS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571253&extension=ts&play_token=GVZS088tcf
