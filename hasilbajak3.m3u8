@@ -57,6 +57,8 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626873&extens
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 12
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8
 
+===================INDONESIA=================
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA", INDOSIAR
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital
@@ -79,7 +81,6 @@ http://muka03.wanicelife.com:8880/12nkk180112/48733427/60479
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf 
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA", GTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="INDONESIA", TV One
@@ -92,12 +93,10 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="INDONESIA", OK TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683105&extension=ts&play_token=GVZS088tcf 
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="INDONESIA", Jak TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683180&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="INDONESIA", JTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683115&extension=ts&play_token=GVZS088tcf 
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="INDONESIA", Berita Satu
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683182&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="INDONESIA", Entertainment
@@ -134,7 +133,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683146&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683145&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="INDONESIA", Hits Movies
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683163&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="INDONESIA", Zee Bioskop
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683155&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="INDONESIA", My Cinema
@@ -149,7 +147,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683161&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683173&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="INDONESIA", Cinemachi Kids
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/XING-KONG-919-523-new.png" group-title="INDONESIA", XingkongTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="INDONESIA", Rock Action
@@ -158,6 +155,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683174&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="INDONESIA", Animax
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png",Aniplus (*)
+https://mantul.biz.id:443/ekos/748382/265.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="INDONESIA", MKidZ
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="INDONESIA", Baby TV
@@ -207,33 +206,257 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683089&ex
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="INDONESIA", OUTDOOR
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683086&extension=ts&play_token=GVZS088tcf
 
+==================INDONESIA FMX============================
+
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",abc
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",afn
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",aljazeeraarabic
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch245%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",aljazeeraenglish err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch252%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",anhui err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch222%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",animalplanet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8  
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",animax
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",antv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",arirang
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",axn
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",balaikota err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",balaikota bdg err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch102%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",bbcworldnews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",bloomberg
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",btv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",cartoonito
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",cartoonnetwork
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",cctv4
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",celestialmovies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",cgtn
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",cgtndocumentary
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",cna
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",citrabioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",citradangdut
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",citradrama
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",citraentertainment
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",citramuslim
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",cnn
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",crimeinvestigation
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",daai
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",davinci
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",discoveryasia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",discoverychannel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",dmax
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",dragon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",dreamworks err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",dwdeutsch
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",dwenglish
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",euronews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",eurosport
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",ewtn
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",fashiontv err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch16%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",firsthighlight err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch900%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",firstwarriors
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",foodnetwork
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",france24english
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",garuda
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",gem
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",globaltrekker
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",hgtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",history
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",hitmovie
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",hits
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",hooree
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",hunan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",idx
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",idtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",jakartaglobe
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",jaktv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",jiangsu
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",jtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",kairos
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",kbsworld
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",kix
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",kompastv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",lifestyle
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",lifetime
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",lovenature
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",Metrotv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8   
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",moji err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",mtv90
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",mtvlive
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",myzen err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch348%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",nhkworldjapan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",nickelodeon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",nickjr
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",one
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",paramount
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",praise
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",premiersport
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",rai
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",reformed21
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",rockaction err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",rockentertainment err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",rtenglish
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",sctv err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch395%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",seatoday err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch416%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",shenzen
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",sonymax
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",sonyset
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",spotv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",spotv2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",stingrayfestival
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",stingrayjazz
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tingraynaturescape
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8 s
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",stingraynow
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tbnasia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch61%29/index.m3u8 
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",techstorm err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch333%29/index.m3u8  
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tlc
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",Trans7
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8  
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",Transtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8  
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tv5mondeasie
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tv9
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tvbsasia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tvbsnews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tvbxinghe
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tvn
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tvnmovies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tvone
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",tvri
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",westjava err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch50%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",xingkong
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8  
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",zeebioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8 
+#EXTINF:-1 group-title="INDONESIA FMX" tvg-logo="",zhejiang
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
+
+=============MALAYSIA===============
+
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", BERNAMA NEWS
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571307&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="MALAYSIA", Nickelodeon
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571283&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="MALAYSIA", TVN Movies
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571261&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="MALAYSIA", TVN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571260&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AURA
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571257&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO RANIA
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571256&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", RUGBYPASS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571253&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="MALAYSIA", Hits
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571252&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CNA
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571251&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ZEE TAMIL
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571250&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO CRICKET
@@ -246,7 +469,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 4
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AWANI
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571243&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO OASIS
@@ -300,6 +522,52 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&ex
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", AFN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
 
+==========EPL===============
+
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 1
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 2" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 2
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69855
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 3" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 3
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69856
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 4" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 4
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69857
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 5" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 5
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69858
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 6" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 6
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69859
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 7" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 7
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69860
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 8" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 8
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69861
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - EPL 1" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="EPL",EPL - Astro - EPL 1
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63112
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - Epl 2" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="EPL",EPL - Astro - Epl 2
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63113
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - EPL 3" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="EPL",EPL - Astro - EPL 3
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63114
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro -EPL 4" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="EPL",EPL - Astro -EPL 4
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63598
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63114
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 1 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 1 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73125
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 2 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 2 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73126
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 3 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 3 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73127
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 4 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 4 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73128
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 5 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 5 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73129
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 6 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 6 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73130
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 7 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 7 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73131
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 8 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 8 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73132
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 9 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 9 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73133
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1 AFC
 https://stream.ayas.ir/hls2/bein1.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 2 AFC
@@ -313,22 +581,16 @@ https://stream.ayas.ir/hls2/bein5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 1
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31362_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 2
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31361_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 3
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31360_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 4
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31359_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 1
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45105_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 2
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45106_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 3
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45107_&extension=ts
 
