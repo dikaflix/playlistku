@@ -696,7 +696,6 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63113
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63114
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Astro -EPL 4" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="EPL",EPL - Astro -EPL 4
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63598
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63114
 #EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 1 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 1 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73125
 #EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 2 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 2 HD
@@ -715,6 +714,13 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73131
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73132
 #EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 9 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 9 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73133
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/2a681b1983ef2e7c687e0620d28a7c27.png" group-title="EPL", Champion 6 V*
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
+https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/2a681b1983ef2e7c687e0620d28a7c27.png" group-title="EPL",FR_Canal+_Premier_Ligue_FHD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53531
 
 ########################## BeIN Sport ##########################
 
