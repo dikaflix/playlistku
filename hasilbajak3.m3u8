@@ -722,6 +722,58 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/2a681b1983ef2e7c687e0620d28a7c27.png" group-title="EPL",FR_Canal+_Premier_Ligue_FHD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53531
 
+=========================================== INDIA ===========================================
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png",& prive
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54411
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png",Zee India
+http://103.120.172.74:1040
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png",Star India
+http://103.120.172.74:1060
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3b706945ff908d5911a0be1eafffb46f.png",Colors
+http://103.120.172.74:1070
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png",Sony SAB
+http://103.120.172.74:1080
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/148794467c949eb960c3369577370edd.png",Sony Pix
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/51428
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png",StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/806194dec889d62b53a395771f889bf8.png",Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png",ZEE CINEMA
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/01624dbf5b113c4b044aa7bb9e7104f1.png",Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a9182065b952abc2263ed53af8259479.png",DD news
+http://103.120.172.74:1170
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/806194dec889d62b53a395771f889bf8.png",Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png",Star sport1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/422
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png",Star sport2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/421
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png",StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/53fbf5a419f6643e41151df74bb16b9e.png",MTV
+http://103.120.172.74:4400
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="INDIA" tvg-logo="",Star sport select1
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="INDIA" tvg-logo="",Star sportselect2
+http://103.120.172.74:4700
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="INDIA" tvg-logo="",SONY TEN 2
+http://103.120.172.74:4800
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png",Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2daad44a19ed90aa9e2a090fa3f91aa1.png",Sony HD
+http://103.120.172.74:5100
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png",Star India
+http://103.120.172.74:5200
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png",Sony Sport1
+http://103.120.172.74:5400
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/496f59ed3a3addec09ad8af54fd489dc.png",NDTV
+
 ########################## BeIN Sport ##########################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Sport",BeIN Sports 1 AIS
