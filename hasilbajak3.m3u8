@@ -31,7 +31,7 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
 https://epg.pw/stream/d99a0eae7b8fa1489d3848e7a58ac62e05fc29cd951a5d5a685e9bcf583d8368.ctv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV Digital
 https://mantul.biz.id:443/ekos/748382/32.ts
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="NASIONAL TV", SCTV HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV HD
 https://epg.pw/stream/a4a14a7727d20a72f6555b4d1d9333d84ebf9509945df0eac9371043b8893822.ctv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -39,14 +39,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONESIA", ANTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="INDONESIA", TRANS 7
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7 HD
+https://epg.pw/stream/c08f8f5f45e3cf642d3a34d5b697b553c1541a8b475caf7bf85f8fbc3b385d06.ctv
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="NASIONAL TV", TRANS TV HD
+https://epg.pw/stream/fee9bd43ab0218dcdf80469c3ccba8774daa8c3fee1799b44c2e24c42a4e058b.ctv
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="INDONESIA", TRANS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTIHD
-http://muka03.wanicelife.com:8880/12nkk180112/48733427/60479
+https://epg.pw/stream/86634e8effc0104e6031685e217a9f87c03927bea78ecab18c0f11d18973055a.ctv
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTI
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
+#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/60479 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV HD
+https://epg.pw/stream/e0f90805dad73aa20dea9d28033c5eb9062117b1eb683938048ddea3f16486a3.ctv
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA", GTV
@@ -61,6 +68,10 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONESIA", Net TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI HD
+https://epg.pw/stream/9d3672bbe383ad000d80362ba143a322bbee8182887dcc065ef677f6570594c3.m3u8
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298550
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="INDONESIA", Rajawali TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="INDONESIA", OK TV
