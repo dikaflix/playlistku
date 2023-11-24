@@ -785,6 +785,65 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&exten
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 4
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
 
+===========FORMULA 1==============
+
+#EXTINF:-1 tvg-logo="http://cdn1.solanaflix.com:8080/images/891a92ee8dd6674128e3eeabdc933919.png" group-title="FORMULA 1", |UK| SKY SPORTS F1 FHD
+http://154.58.202.49:8080/2058303144/Easymoney265/100769
+#EXTINF:-1 tvg-logo="http://cdn1.solanaflix.com:8080/images/891a92ee8dd6674128e3eeabdc933919.png" group-title="FORMULA 1", |UK| SKY SPORTS F1 HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/789
+#EXTINF:-1 tvg-logo="http://cdn1.solanaflix.com:8080/images/cf9116579506c0c47c5a50efd93259b9.png" group-title="FORMULA 1", |UK| SKY SPORTS F1
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/2876
+#EXTINF:-1 tvg-logo="http://cdn1.solanaflix.com:8080/images/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3XCuWrQqNwP1Uxf8r8PXP9oILtuQp4JeQK3S39z5alXzTfyBZ5GKN_ltO68xsktDWA.png" group-title="FORMULA 1", |ES| DAZN F1 FHD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/353
+#EXTINF:-1 tvg-logo="http://cdn1.solanaflix.com:8080/images/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3XCuWrQqNwP1Uxf8r8PXP9oILtuQp4JeQK3S39z5alXzTfyBZ5GKN_ltO68xsktDWA.png" group-title="FORMULA 1", |ES| DAZN F1 HD
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/2553
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Formula 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/023d2b998cbf030c0e554eb18c6eb546.jpg" group-title="FORMULA 1", FR: CANAL+ Formula 1
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53533
+
+============MOTO GP===============
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_MotoGP.png/" group-title="MOTO GP", FR_CANAL+_MOTOGP_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53530
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_MotoGP.png/" group-title="MOTO GP", CANAL+_MOTOGP_HD
+http://154.58.202.49:8080/2058303144/Easymoney265/113613
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_MotoGP_-_Logo_2014.svg/1024px-Sky_Sport_MotoGP_-_Logo_2014.svg.png" group-title="MOTO GP", SKY SPORT MOTOGP ITA
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/28473
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_MotoGP_-_Logo_2014.svg/1024px-Sky_Sport_MotoGP_-_Logo_2014.svg.png" group-title="MOTO GP", SKY SPORT MOTOGP
+http://154.58.202.49:8080/2058303144/Easymoney265/114962
+
+=============SUPERSPORT AF=================
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png" group-title="SUPERSPORT AF", SuperSport LaLiga
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14630
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/s6b35j1629404341.png" group-title="SUPERSPORT AF", SuperSport PSL
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14631
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="SUPERSPORT AF", SuperSport Premier League
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14632
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" group-title="SUPERSPORT AF", SuperSport Grandstand
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14633
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="SUPERSPORT AF", SuperSport Variety 1
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14634
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="SUPERSPORT AF", SuperSport Variety 2
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14635
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="SUPERSPORT AF", SuperSport Variety 3
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/144750
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jz5jpt1638048871.png" group-title="SUPERSPORT AF", SuperSport Variety 4
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14637
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action-live.png" group-title="SUPERSPORT AF", SuperSport Action
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14638
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" group-title="SUPERSPORT AF", SuperSport Football
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14639
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="SUPERSPORT AF", SuperSport Cricket
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14640
+#EXTINF:-1 tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png" group-title="SUPERSPORT AF", SuperSport Motorsport
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14641
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="SUPERSPORT AF", SuperSport Rugby
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14642
+#EXTINF:-1 tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="SUPERSPORT AF", SuperSport Tennis
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14643
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a304.png" group-title="SUPERSPORT AF",  SuperSport Golf
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14644
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg",PremierTV (V*)
