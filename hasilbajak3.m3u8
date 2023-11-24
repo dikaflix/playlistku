@@ -141,8 +141,12 @@ https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&userid=4r
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="INDONESIA", CinemaWorld
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683146&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits HD
+https://epg.pw/stream/1db6f716f1854d46d579a190d66b019f7e5e13b887533c9d8df28b6864f21725.ctv
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683145&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="INDONESIA", Hits Movies HD
+https://epg.pw/stream/07cee3433cc4fc5af5f40786806cf4a36b67290fdf5d7a62c4693751bb9f1ca0.ctv
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="INDONESIA", Hits Movies
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683163&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="INDONESIA", Zee Bioskop
