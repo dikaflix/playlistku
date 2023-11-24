@@ -30,8 +30,6 @@ https://bit.ly/3MeFJVc
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar HD
 https://mantul.biz.id:443/ekos/748382/5286.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", INDOSIAR
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital
 https://epg.pw/stream/d99a0eae7b8fa1489d3848e7a58ac62e05fc29cd951a5d5a685e9bcf583d8368.ctv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV Digital
