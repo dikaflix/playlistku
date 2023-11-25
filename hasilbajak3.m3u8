@@ -468,6 +468,10 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&ex
 ==========EPL===============
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="EPL", Sky Sports Premier League FHD UK
 http://154.58.202.49:8080/2058303144/Easymoney265/100773
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/premier-league.png" group-title="EPL", Premier League Tv Optus
+http://154.58.202.49:8080/2058303144/Easymoney265/110281
+#EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" group-title="EPL", AF - SuperSport Premier League | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68952
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 1
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 2" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 2
