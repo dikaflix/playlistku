@@ -30,8 +30,6 @@ https://bit.ly/3MeFJVc
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar HD
 https://mantul.biz.id:443/ekos/748382/5286.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital
-https://epg.pw/stream/d99a0eae7b8fa1489d3848e7a58ac62e05fc29cd951a5d5a685e9bcf583d8368.ctv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV Digital
 https://mantul.biz.id:443/ekos/748382/32.ts
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV HD
@@ -43,22 +41,23 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&ex
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONESIA", ANTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7 HD
-https://epg.pw/stream/c08f8f5f45e3cf642d3a34d5b697b553c1541a8b475caf7bf85f8fbc3b385d06.ctv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="INDONESIA", TRANS TV HD
-https://epg.pw/stream/fee9bd43ab0218dcdf80469c3ccba8774daa8c3fee1799b44c2e24c42a4e058b.ctv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="INDONESIA", TRANS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTIHD
-https://epg.pw/stream/86634e8effc0104e6031685e217a9f87c03927bea78ecab18c0f11d18973055a.ctv
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/60479
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTI
 #http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
-http://muka03.wanicelife.com:8880/12nkk180112/48733427/60479 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV HD
-https://epg.pw/stream/e0f90805dad73aa20dea9d28033c5eb9062117b1eb683938048ddea3f16486a3.ctv
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/165054
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA", GTV HD
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/60292
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA", GTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg", TvOne
@@ -71,8 +70,10 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONESIA", Net TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI HD
-https://epg.pw/stream/9d3672bbe383ad000d80362ba143a322bbee8182887dcc065ef677f6570594c3.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI Digital FHD
+http://103.166.27.2:8112/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI (D*)
+https://bit.ly/3tMoswx
 #EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298550
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="INDONESIA", Rajawali TV
@@ -219,11 +220,11 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683196&ex
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="INDONESIA", FMN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683143&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="INDONESIA", SpoTV HD
-https://epg.pw/stream/7b2fd36dfcdc8186a8475b5688652976b46bb88a2c9e1e982466522630078207.ctv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="INDONESIA", SpoTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683117&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="INDONESIA", SpoTV 2
-https://epg.pw/stream/6163f57387ea31c09f2c05a364a2d9a909e2456a6d40854caff5be39dcfd6377.ctv
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/60482
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="INDONESIA", SPORTSTAR
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683133&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="INDONESIA", BEIN SPORT
@@ -267,11 +268,11 @@ http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="HBO PREMIUM INDO",HBO
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="HBO PREMIUM INDO",HBO Hits
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+https://epg.pw/stream/95fe0722254bd8a0419a4b905a34ecc6ad640b23a99c428f3111d91fb3c7a4eb.ctv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="HBO PREMIUM INDO",HBO Family
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+https://epg.pw/stream/b0729f2a4cb3931413d58b5c11f530b09314e758c59321590e655bdccb16da75.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="HBO PREMIUM INDO",HBO Signature
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="HBO PREMIUM INDO",Cinemax
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
 
