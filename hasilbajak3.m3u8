@@ -466,7 +466,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
 
 ==========EPL===============
-
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="EPL", Sky Sports Premier League FHD UK
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4701
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 1
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 2" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 2
@@ -516,6 +517,51 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73133
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/2a681b1983ef2e7c687e0620d28a7c27.png" group-title="EPL",FR_Canal+_Premier_Ligue_FHD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53531
+
+===========SPORT EROPA================
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/supersport2.png" group-title="EROPA SPORT", AL: SUPER SPORTS 2
+http://154.58.202.49:8080/2058303144/Easymoney265/111755
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/supersport2.png" group-title="EROPA SPORT", AL: SUPER SPORTS 2 SD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/47082
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 3" tvg-logo="https://asiagrandiptv.us/logo/supersport3.png" group-title="EROPA SPORT", AL: SUPER SPORTS 3
+http://154.58.202.49:8080/2058303144/Easymoney265/111756
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 3" tvg-logo="https://asiagrandiptv.us/logo/supersport3.png" group-title="EROPA SPORT", AL: SUPER SPORTS 3 SD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/47080
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 4" tvg-logo="https://asiagrandiptv.us/logo/supersport4.png" group-title="EROPA SPORT", AL: SUPER SPORTS 4
+http://154.58.202.49:8080/2058303144/Easymoney265/111757
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 4" tvg-logo="https://asiagrandiptv.us/logo/supersport4.png" group-title="EROPA SPORT", AL: SUPER SPORTS 4 SD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/47078
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 5" tvg-logo="https://asiagrandiptv.us/logo/supersport5.png" group-title="EROPA SPORT", AL: SUPER SPORTS 5
+http://154.58.202.49:8080/2058303144/Easymoney265/111758
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 6" tvg-logo="https://asiagrandiptv.us/logo/supersport6.png" group-title="EROPA SPORT", AL: SUPER SPORTS 6
+http://154.58.202.49:8080/2058303144/Easymoney265/111759
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 7" tvg-logo="https://asiagrandiptv.us/logo/supersport7.png" group-title="EROPA SPORT", AL: SUPER SPORTS 7
+http://154.58.202.49:8080/2058303144/Easymoney265/111760
+
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/arenasport1.png" group-title="EROPA SPORT", CRO: ARENA SPORT 1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/916
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/arenasport1.png" group-title="EROPA SPORT", CRO: ARENA SPORT 1 HD
+http://154.58.202.49:8080/2058303144/Easymoney265/113001
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/arenasport2.png" group-title="EROPA SPORT", CRO: ARENA SPORT 2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/914
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/arenasport2.png" group-title="EROPA SPORT", CRO: ARENA SPORT 2 HD
+http://154.58.202.49:8080/2058303144/Easymoney265/113002
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/arenasport3.png" group-title="EROPA SPORT", CRO: ARENA SPORT 3
+http://154.58.202.49:8080/2058303144/Easymoney265/113003
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/arenasport3.png" group-title="EROPA SPORT", CRO: ARENA SPORT 3 HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/912
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/arenasport4.png" group-title="EROPA SPORT", CRO: ARENA SPORT 4
+http://154.58.202.49:8080/2058303144/Easymoney265/113004
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/arenasport4.png" group-title="EROPA SPORT", CRO: ARENA SPORT 4 HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/910
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://asiagrandiptv.us/logo/arenasport5.png" group-title="EROPA SPORT", CRO: ARENA SPORT 5
+http://154.58.202.49:8080/2058303144/Easymoney265/113005
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://asiagrandiptv.us/logo/arenasport5.png" group-title="EROPA SPORT", CRO: ARENA SPORT 5 HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/908
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://asiagrandiptv.us/logo/arenasport6.png" group-title="EROPA SPORT", CRO: ARENA SPORT 6
+http://154.58.202.49:8080/2058303144/Easymoney265/113006
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://asiagrandiptv.us/logo/arenasport6.png" group-title="EROPA SPORT", CRO: ARENA SPORT 6 HD
 
 =========================================== INDIA ===========================================
 
@@ -776,16 +822,22 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45109_&exten
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 6
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45110_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 1
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png" group-title="TNT SPORT", TNT SPORT 1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3600
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png" group-title="TNT SPORT", TNT SPORT 1 UK
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38387_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 2
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="TNT SPORT", TNT SPORT 2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3601
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="TNT SPORT", TNT SPORT 2 UK
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38365_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 3
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="TNT SPORT", TNT SPORT 3
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3602
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="TNT SPORT", TNT SPORT 3 UK
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 4
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027975/1491.png" group-title="TNT SPORT", TNT SPORT 4
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/255
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027975/1491.png" group-title="TNT SPORT", TNT SPORT 4 UK
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
 
 ===========FORMULA 1==============
