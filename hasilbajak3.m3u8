@@ -662,6 +662,46 @@ http://154.58.202.49:8080/2058303144/Easymoney265/115966
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="https://asiagrandiptv.us/logo/sporttvnba.png" group-title="EROPA SPORT", SPORT TV NBA
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/29366
 
+===========SPORT AMERICA===================
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn.png" group-title="SPORT AMERICA", ESPN
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46871
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn2.png" group-title="SPORT AMERICA", ESPN 2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46869
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-deportes-us.png" group-title="SPORT AMERICA", ESPN 3
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46868
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-deportes-us.png" group-title="SPORT AMERICA", ESPN Deportes
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46867
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsplus.png" group-title="SPORT AMERICA", FOX SOCCER PLUS
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50068
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fs1.png" group-title="SPORT AMERICA", FOX SPORTS 1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1529
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/foxsports2.png" group-title="SPORT AMERICA", FOX SPORTS 2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1530
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-us.png" group-title="SPORT AMERICA", NBCSN
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46766
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/cbs-sports-network-us.png" group-title="SPORT AMERICA", CBS Sports Network
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46840
+#EXTINF:-1 tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/tyc-sports-ar.png" group-title="SPORT AMERICA", ARG: TYC SPORTS
+http://154.58.202.49:8080/2058303144/Easymoney265/112536
+#EXTINF:-1 tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/tyc-sports-ar.png" group-title="SPORT AMERICA", ARG: Tyc sports Internacional
+http://154.58.202.49:8080/2058303144/Easymoney265/112537
+#EXTINF:-1 tvg-id="NBA TV USA" tvg-name="NBA Tv." tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="SPORT AMERICA", NBA TV
+#http://154.58.202.49:8080/2058303144/Easymoney265/101962
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46860
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/383px-MLBNetworkLogo.svg.png" group-title="SPORT AMERICA", MLB NETWORK 
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46770
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbc-golf-channel-us.png" group-title="SPORT AMERICA", NBC GOLF
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46844
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="SPORT AMERICA", Tennis Channel
+#http://154.58.202.49:8080/2058303144/Easymoney265/40854
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46843
+#EXTINF:-1 tvg-id="ufcnetwork.us" tvg-name="UFC FIGHT PASS" tvg-logo="https://www.fightful.com/sites/default/files/event-header/ufc_2.png" group-title="SPORT AMERICA", UFC FIGHT PASS
+http://154.58.202.49:8080/2058303144/Easymoney265/47052
+#EXTINF:-1 tvg-id="WWE Network HD (Canada)" tvg-name="WWE" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="SPORT AMERICA", WWE Network
+#http://154.58.202.49:8080/2058303144/Easymoney265/9506
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46880
+
 =========================================== INDIA ===========================================
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png",& prive
@@ -1004,12 +1044,6 @@ http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/14644
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=TVRI_Sport
 https://op-group2-swiftservesd-1.dens.tv/s/s107/index.m3u8
-
-#EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSport 1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS",UseeSport 1
-http://gg.gg/useeone
-
-#EXTINF:-1 tvg-id="UseeSports2.id" tvg-name="UseeSport2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS",UseeSport2
-http://gg.gg/useetwo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
