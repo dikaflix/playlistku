@@ -662,6 +662,30 @@ http://154.58.202.49:8080/2058303144/Easymoney265/115966
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="https://asiagrandiptv.us/logo/sporttvnba.png" group-title="EROPA SPORT", SPORT TV NBA
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/29366
 
+#EXTINF:-1 tvg-id="" tvg-name="RO: ORANGE SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/telekomsport1.png" group-title="EROPA SPORT", RO: ORANGE SPORT 1
+#http://154.58.202.49:8080/2058303144/Easymoney265/116112
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52351
+#EXTINF:-1 tvg-id="" tvg-name="RO: ORANGE SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/telekomsport2.png" group-title="EROPA SPORT", RO: ORANGE SPORT 2
+#http://154.58.202.49:8080/2058303144/Easymoney265/116113
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52352
+#EXTINF:-1 tvg-id="" tvg-name="RO: ORANGE SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/telekomsport3.png" group-title="EROPA SPORT", RO: ORANGE SPORT 3
+#http://154.58.202.49:8080/2058303144/Easymoney265/116114
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52353
+#EXTINF:-1 tvg-id="" tvg-name="RO: ORANGE SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/telekomsport4.png" group-title="EROPA SPORT", RO: ORANGE SPORT 4
+http://154.58.202.49:8080/2058303144/Easymoney265/116115
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/digisport1.png" group-title="EROPA SPORT", RO: DIGI SPORT 1
+http://154.58.202.49:8080/2058303144/Easymoney265/116033
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46984
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/digisport2.png" group-title="EROPA SPORT", RO: DIGI SPORT 2
+http://154.58.202.49:8080/2058303144/Easymoney265/116034
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46983
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/digisport3.png" group-title="EROPA SPORT", RO: DIGI SPORT 3
+http://154.58.202.49:8080/2058303144/Easymoney265/116035
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46982
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/digisport4.png" group-title="EROPA SPORT", RO: DIGI SPORT 4
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46981
+
 ===========SPORT AMERICA===================
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn.png" group-title="SPORT AMERICA", ESPN
