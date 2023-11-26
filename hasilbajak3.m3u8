@@ -1064,6 +1064,17 @@ http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/1986
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Viaplay 2" tvg-logo="https://seeklogo.com/images/V/viaplay-logo-400E84BCF6-seeklogo.com.png" group-title="SPORTS", Viaplay 2
 http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/8091
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-1-in.png" group-title="SPORTS", IN: STAR SPORTS SELECT 1
+http://154.58.202.49:8080/2058303144/Easymoney265/114632
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-2-in.png" group-title="SPORTS", IN: STAR SPORTS SELECT 2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/447
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/tensports.png" group-title="SPORTS", IN: SONY SPORT 1
+http://154.58.202.49:8080/2058303144/Easymoney265/114648
+#EXTINF:-1 tvg-logo="https://xplanetiptv.com/Logotv/countries/india/countrypic.png" group-title="SPORTS", IN: SONY SPORT 2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/2906
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-3-in.png" group-title="SPORTS", IN: SONY SPORT 3
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/2907
+
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena FHD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fskymedia.it%2Fwp-content%2Fuploads%2F2020%2F09%2FSky_Sport_Arena_PRIMARY_RGB.png&f=1&nofb=1&ipt=dc65589fe08e51ad26323b946d6006dfa49259a6478611c470eb9e5bc261aa0a&ipo=images" group-title="SPORTS", Sky Sports Arena FHD
 #http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/1868
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52229
