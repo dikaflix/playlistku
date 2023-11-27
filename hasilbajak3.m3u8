@@ -134,8 +134,10 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=jjj&chname=NaDooKorean
-#EXTINF:-1 tvg-id="" tvg-name="ID: GEM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="Indonesia",ID: GEM
+#EXTINF:-1 tvg-id="" tvg-name="ID: GEM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="INDONESIA",ID: GEM
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298533
+#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA",ID: FLIK
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/165095
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Thrill
@@ -1080,6 +1082,9 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/2861
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png"  group-title="SPORTS" , Sky Sports Football FHD
 #http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/1873
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50058
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="SPORTS", ID: MNC Sports 2
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298548
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/premier-sports-uk.png" group-title="SPORTS", Premier Sports 1
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/793
