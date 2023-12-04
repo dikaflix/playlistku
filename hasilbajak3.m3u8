@@ -102,7 +102,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&ex
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/60374
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="INDONESIA", GALAXY HD
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/60375
-EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="INDONESIA", Flik (*)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="INDONESIA", Flik (*)
 https://mantul.biz.id:443/ekos/748382/223.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="INDONESIA", IMC
 http://37.49.225.197:8080/fawkes32/7bf6c1e8b8dcw/264769
