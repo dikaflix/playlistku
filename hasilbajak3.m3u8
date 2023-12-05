@@ -516,12 +516,22 @@ https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 #EXTINF:-1  tvg-logo="" group-title="KOREAN", K-IDS
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/SBS_Media_Holdings_logo.png" group-title="KOREAN", SBS
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/f0733d9fc870fa1bacf7b3f3b55b7ac7.png" group-title="KOREAN",  Arirang
+#http://muka03.wanicelife.com:8880/12nkk180112/48733427/51808
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS World HD
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/SBS_Media_Holdings_logo.png" group-title="KOREAN", jtbc
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/51810
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/SBS_Media_Holdings_logo.png" group-title="KOREAN", SBS
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/51816
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png" group-title="KOREAN", MBC
-http://muka03.wanicelife.com:8880/12nkk180112/48733427/51809
-#EXTINF:-1 tvg-logo="" group-title="KOREAN", SBS plus
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/51813
+#EXTINF:-1 tvg-logo="" group-title="KOREAN", SBS pluss
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/51808
+#EXTINF:-1 tvg-logo="" group-title="KOREAN", SBS plus
+http://muka03.wanicelife.com:8880/12nkk180112/48733427/51815
 
 ================MOVIES==========================
 
