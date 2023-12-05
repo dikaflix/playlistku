@@ -1090,10 +1090,9 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45109_&exten
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45110_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png" group-title="TNT SPORT", TNT SPORT 1
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3600
+http://muka03.wanicelife.com:8880/3ca06083n01a/sade32sd/28946
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png" group-title="TNT SPORT", TNT SPORT 1 UK
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38387_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="TNT SPORT", TNT SPORT 2
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3601
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="TNT SPORT", TNT SPORT 2 UK
@@ -1203,7 +1202,7 @@ http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/1986
 http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/8091
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-1-in.png" group-title="SPORTS", IN: STAR SPORTS SELECT 1
-http://154.58.202.49:8080/2058303144/Easymoney265/114632
+http://muka03.wanicelife.com:8880/3ca06083n01a/sade32sd/55270
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-2-in.png" group-title="SPORTS", IN: STAR SPORTS SELECT 2
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/447
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/tensports.png" group-title="SPORTS", IN: SONY SPORT 1
