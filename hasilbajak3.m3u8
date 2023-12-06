@@ -1349,7 +1349,7 @@ http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508246
 http://37.49.225.197:8080/fawkes32/7bf6c1e8b8dcw/264
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="SPORTS", UK: Sky Sports Mix
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508254
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="PORTS", UK: Sky Sports Premier League UK
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="SPORTS", UK: Sky Sports Premier League UK
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508256
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/premier-sports-uk.png" group-title="SPORTS", UK: Premier Sports 1
@@ -1456,14 +1456,12 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58571
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50967
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", 24/7 WRESTLEMANIA CLASSIC
 http://hdhd.tk:80/4590/4590/34024
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", 24/7: WWE WrestleMania
-http://gtvm.bmw786.xyz:80/Elizabeth/Elizabeth/764945
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", 24/7: WWE SummerSlam
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/578894
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", 24/7: WWE Royal Rumble
-http://gtvm.bmw786.xyz:80/Elizabeth/Elizabeth/764943
+http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/578893
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", 24/7: WWE Money in the Bank
-http://gtvm.bmw786.xyz:80/Elizabeth/Elizabeth/764942
+http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/578892
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", US: IMPACT PRO WRESTLING
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/428570
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", US: Lucha Libre AAA
