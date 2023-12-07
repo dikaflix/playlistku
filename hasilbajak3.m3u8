@@ -68,7 +68,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&ex
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="INDONESIA", Metro TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONESIA", Net TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf
+http://37.49.225.197:8080/Steffenmartin/t7CzyQBxPn53UTgWNGq4cV/80292
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/iNews%20SD-FirstMedia-Chl-65.jpg" group-title="INDONESIA", INews
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/inews.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="INDONESIA", Bloomberg
@@ -252,7 +252,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683107&ex
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_78-iXAaoJEHQQEXHdIMpJCraBNrnZelBEoFFiHtWEeDzaQ8TVVTF--TIY0ua0xttzLM&usqp=CAU" group-title="INDONESIA", Tawaf TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="INDONESIA", BBC Earth
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcearth.m3u8
+http://37.49.225.197:8080/Steffenmartin/t7CzyQBxPn53UTgWNGq4cV/165106
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="INDONESIA", Discovery World
 http://37.49.225.197:8080/Steffenmartin/t7CzyQBxPn53UTgWNGq4cV/157597
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="INDONESIA", Nat Geo
