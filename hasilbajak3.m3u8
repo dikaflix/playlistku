@@ -244,7 +244,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683139&ex
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="INDONESIA", BEIN SPORT 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683138&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="INDONESIA", Fight Sport
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683135&extension=ts&play_token=GVZS088tcf
+#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683135&extension=ts&play_token=GVZS088tcf
+http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="INDONESIA", MNC News
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683193&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="INDONESIA", Bandung TV
@@ -524,7 +525,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 #EXTINF:-1  tvg-logo="" group-title="KOREAN", K-IDS
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/f0733d9fc870fa1bacf7b3f3b55b7ac7.png" group-title="KOREAN",  Arirang
-http://muka03.wanicelife.com:8880/12nkk180112/48733427/51808
+#http://muka03.wanicelife.com:8880/12nkk180112/48733427/51808
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS World HD
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
@@ -534,7 +536,20 @@ http://muka03.wanicelife.com:8880/12nkk180112/48733427/51816
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/51813
 #EXTINF:-1 tvg-logo="" group-title="KOREAN", SBS plus
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/51815
-
+#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/grid/original/129500_pd-drama-terlibat-skandal-ini-penjelasan-pihak-mbc.jpg" group-title="KOREAN", MBC Chuncheon
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="KOREAN", SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CJ_logo.svg/640px-CJ_logo.svg.png" group-title="KOREAN", CJ OnStyle 
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CJ_logo.svg/640px-CJ_logo.svg.png" group-title="KOREAN", CJ OnStyle Plus 
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" group-title="KOREAN", EBS 1 
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" group-title="KOREAN", EBS 2 
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" group-title="KOREAN", EBS kids 
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 ================MOVIES==========================
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop
