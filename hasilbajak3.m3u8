@@ -602,6 +602,10 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53850
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53859
 
 ==========EPL===============
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" group-title="EPL", STAR SPORTS SELECT 1
+http://117.55.202.141:80/streamosama/OsamaMYHD/1464
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" group-title="EPL", STAR SPORTS SELECT 2
+http://117.55.202.141:80/streamosama/OsamaMYHD/1465
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="EPL", Sky Sports Premier League FHD UK
 http://163.172.55.74:8080/Baker22/HXdW4myavCMN/1886
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="EPL", Sky Sports Premier League UK
