@@ -573,13 +573,16 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="MOVIES", Star Movies 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
-http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="MOVIES", Star Movies Select
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="MOVIES", Star Movie Select
 http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="MOVIES", MN+ HD
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="MOVIES", MNOW
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="MOVIES" , SONY MAX
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/47238
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="MOVIES", UTSAV GOLD
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/55221
 
