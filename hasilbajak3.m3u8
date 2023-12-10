@@ -27,12 +27,11 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar (D*)
 https://bit.ly/3MeFJVc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital FHD
-#http://103.166.27.2:8112/play/a016/index.m3u8
 http://37.49.225.197:8080/14e17190/e84b5c0d6a/162138
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar HD
-https://mantul.biz.id:443/ekos/748382/5286.ts
+http://37.49.225.197:8080/Steffenmartin/t7CzyQBxPn53UTgWNGq4cV/162138
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV Digital
-http://103.166.27.2:8112/play/a015/index.m3u8
+https://bit.ly/3Sc6EFk
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV HD
 http://37.49.225.197:8080/14e17190/e84b5c0d6a/162141
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV
