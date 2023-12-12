@@ -103,6 +103,52 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1799
 #EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="NL: ZIGGO Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d1bfb1240f4d7a3afa266815fff73b64.png" group-title="LIGA CHAMPION", ZIGGO Select
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1800
 
+=======LATIN SPORT===============
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 ARGENTINA FULL HD" tvg-logo="https://i.ibb.co/JxSN44Y/fxs1.png" group-title="LATIN SPORT", FOX SPORTS 1 ARGENTINA FULL HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190646
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 CHILE HD" tvg-logo="https://i.ibb.co/JxSN44Y/fxs1.png" group-title="LATIN SPORT", FOX SPORTS 1 CHILE HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190647
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 MEXICO HD" tvg-logo="https://i.ibb.co/JxSN44Y/fxs1.png" group-title="LATIN SPORT", FOX SPORTS 1 MEXICO HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190644
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 MEXICO" tvg-logo="https://i.ibb.co/JxSN44Y/fxs1.png" group-title="LATIN SPORT", FOX SPORTS 1 MEXICO
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190645
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARGENTINA HD" tvg-logo="https://i.ibb.co/JBFvwNY/resize.png" group-title="LATIN SPORT", FOX SPORTS 2 ARGENTINA HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190655
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR FULL HD" tvg-logo="https://i.ibb.co/JBFvwNY/resize.png" group-title="LATIN SPORT", FOX SPORTS 2 SUR FULL HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190651
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 MEXICO HD" tvg-logo="https://i.ibb.co/JBFvwNY/resize.png" group-title="LATIN SPORT",FOX SPORTS 2 MEXICO HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190652
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 AR HD" tvg-logo="https://i.ibb.co/WpkL2qk/foxs-port3.png" group-title="LATIN SPORT", FOX SPORTS 3 AR HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190660
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 SUR HD" tvg-logo="https://i.ibb.co/WpkL2qk/foxs-port3.png" group-title="LATIN SPORT", FOX SPORTS 3 SUR HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190659
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 MEXICO FULL HD" tvg-logo="https://i.ibb.co/WpkL2qk/foxs-port3.png" group-title="LATIN SPORT", FOX SPORTS 3 MEXICO FULL HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190663
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 ARGENTINA HD" tvg-logo="https://i.ibb.co/JC4v2dn/espn1.png" group-title="LATIN SPORT", ESPN 1 ARGENTINA HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190671
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 CHILE HD" tvg-logo="https://i.ibb.co/JC4v2dn/espn1.png" group-title="LATIN SPORT", ESPN 1 CHILE HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190673
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR FULL HD" tvg-logo="http://tvlatino.club:2082/images/03ac82a1166b77af8f94c9585710f053.png" group-title="LATIN SPORT", ESPN 1 SUR FULL HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190668
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MEXICO FULL HD" tvg-logo="https://i.ibb.co/JC4v2dn/espn1.png" group-title="LATIN SPORT", ESPN 1 MEXICO FULL HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190670
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARGENTINA" tvg-logo="https://i.ibb.co/KrnnN82/ESPN2.png" group-title="LATIN SPORT", ESPN 2 ARGENTINA
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190724
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 COLOMBIA FHD" tvg-logo="https://i.ibb.co/KrnnN82/ESPN2.png" group-title="LATIN SPORT", ESPN 2 COLOMBIA FHD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190725
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR HD" tvg-logo="https://i.ibb.co/KrnnN82/ESPN2.png" group-title="LATIN SPORT", ESPN 2 SUR HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190676
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MEXICO FULL HD" tvg-logo="https://i.ibb.co/KrnnN82/ESPN2.png" group-title="LATIN SPORT", ESPN 2 MEXICO FULL HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190678
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 ARGENTINA HD" tvg-logo="https://i.ibb.co/FD4rsW0/espn3.png" group-title="LATIN SPORT", ESPN 3 ARGENTINA HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190685
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 CH HD" tvg-logo="https://i.ibb.co/FD4rsW0/espn3.png" group-title="LATIN SPORT", ESPN 3 CH HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190681
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + MEXICO FULL HD" tvg-logo="https://i.ibb.co/6wjg5bm/espn.png" group-title="LATIN SPORT", ESPN + MEXICO FULL HD
+http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190691
+
 ===================INDONESIA=================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar (D*)
 https://bit.ly/3MeFJVc
