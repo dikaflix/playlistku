@@ -1058,7 +1058,7 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&exten
 ===========FORMULA 1==============
 
 #EXTINF:-1 tvg-logo="http://cdn1.solanaflix.com:8080/images/891a92ee8dd6674128e3eeabdc933919.png" group-title="FORMULA 1", |UK| SKY SPORTS F1 FHD
-http://hdhd.tk:80/4590/4590/31934
+http://163.172.55.74:8080/DEJ131619/pp5H4FZ6udHA/1872
 #EXTINF:-1 tvg-logo="http://cdn1.solanaflix.com:8080/images/891a92ee8dd6674128e3eeabdc933919.png" group-title="FORMULA 1", |UK| SKY SPORTS F1 HD
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/789
 #EXTINF:-1 tvg-logo="http://cdn1.solanaflix.com:8080/images/cf9116579506c0c47c5a50efd93259b9.png" group-title="FORMULA 1", |UK| SKY SPORTS F1
