@@ -252,8 +252,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="INDONESIA", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONESIA", Net TV
-#http://37.49.225.197:8080/Steffenmartin/t7CzyQBxPn53UTgWNGq4cV/80292
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/nettv.m3u8
+http://mega4k.net:8080/Jr123/996633/4658
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/iNews%20SD-FirstMedia-Chl-65.jpg" group-title="INDONESIA", INews
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/inews.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="INDONESIA", Bloomberg
@@ -579,28 +578,52 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="MALAYSIA",TV 3
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MALAYSIA", TV 3
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/1732
-#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="MALAYSIA",TV 8
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA", TV 8
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/1730
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV9
 http://muka03.wanicelife.com:8880/48msk050004/62869843/1729
-#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="MALAYSIA",BOO
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MALAYSIA",BOO
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/1697
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", QUAN JIA
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1728
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 1
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 1
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 2
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 2
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/1721
-#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 3
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 3
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/59218
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 4
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 4
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/1719
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="MALAYSIA", ASTOR ARENA HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="MALAYSIA", ASTOR ARENA HD
 http://233718146152685132.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/685132.ts
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO PRIMA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAYSIA", ASTOR PRIMA HD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTOR ARENA 2 HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArena2HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAYSIA", ASTOR PRIMA HD
 http://233718146152702524.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/702524.ts
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png", RIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCeriaHD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png", ASTOR AEC S
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroAEC
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png", ASTOR QJ S
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroQJ
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroAuraHD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRaniaHD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroPrimaHD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroiQIYIHD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png", Awesome TV
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AwesomeTV
 
 
 ==========KOREAN=======================
@@ -638,8 +661,8 @@ http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://m.ebs.co.kr/common/img/ebs_logo.png" group-title="KOREAN", EBS kids 
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-================MOVIES==========================
 
+================MOVIES==========================
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop
 http://37.49.225.197:8080/Steffenmartin/t7CzyQBxPn53UTgWNGq4cV/298526
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop 02
@@ -677,8 +700,6 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46632
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Majestic Action 1
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52156
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", Majestic WAR HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52342
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Majestic TRIGLOY HD
 http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52343
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Majestic ANMIE HD
@@ -703,14 +724,40 @@ http://163.172.55.74:8080/Baker22/HXdW4myavCMN/1886
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/2877
 #EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" group-title="EPL", AF - SuperSport Premier League | HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68952
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_plus_bg_hd.png" group-title="EPL", DIEMA SPORT 2 FHD
+
+#EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 1 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928
+#EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 2 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63929
+#EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63930
+#EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 4
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63931
+#EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 5 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63932
+#EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63933
+#EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sports 7 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/64874
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QzrVKdy/peacock.png" group-title="EPL", US Premier League TV (PC)
+http://magstreamz.com:8080/English32/hSNHWYh5jw/405957
+#EXTINF:-1 tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="EPL", 4K HubPremier2 SG
+http://magstreamz.com:8080/English32/hSNHWYh5jw/510623
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6VC6CXQ/Dise-o-sin-t-tulo-27.png" group-title="EPL", Dazn1 ᶠᴴᴰ
+http://pinkpanther.uk:8080/rosadiaz/rosadiaz/305
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh05xcm3/Dise-o-sin-t-tulo-28.png" group-title="EPL", Dazn2 ᶠᴴᴰ
+http://pinkpanther.uk:8080/rosadiaz/rosadiaz/311
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmmqZT3h/Dise-o-sin-t-tulo-29.png" group-title="EPL", Dazn3 ᴴᴰ
+http://pinkpanther.uk:8080/rosadiaz/rosadiaz/320
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJDm1MX2/Dise-o-sin-t-tulo-30.png" group-title="EPL", Dazn4 ᶠᴴᴰ
+http://pinkpanther.uk:8080/rosadiaz/rosadiaz/323
+
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/diema_sport_bg.png" group-title="SVIP SPORTS", BG: DIEMA SPORT FHD
+http://233718146152375686.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/375686.ts
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_plus_bg_hd.png" group-title="EPL", BG: DIEMA SPORT 2 FHD
 http://233718146152708660.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/708660.ts
-#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="EPL",  |TR| beIN Sports 2 HD
-http://maxsizle.xyz:8080/fkrt4669/6PJRN89HJV2Q/35730
-#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="EPL", |TR| beIN Sports 3 HD
-http://maxsizle.xyz:8080/fkrt4669/6PJRN89HJV2Q/6097
-#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="EPL", |TR| beIN Sports 4 HD
-http://maxsizle.xyz:8080/fkrt4669/6PJRN89HJV2Q/6098
+
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 1
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 2" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 2
@@ -753,6 +800,7 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73131
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73132
 #EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 9 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 9 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73133
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/2a681b1983ef2e7c687e0620d28a7c27.png" group-title="EPL", Champion 6 V*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -764,24 +812,6 @@ http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53531
 http://gtvm.bmw786.xyz:80/Elizabeth/Elizabeth/625866
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="EPL", Hub Premier  EPL 02
 http://gtvm.bmw786.xyz:80/Elizabeth/Elizabeth/625867
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 03" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub3.png" group-title="EPL", Hub Premier  EPL 03
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501579
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 04" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub4.png" group-title="EPL", Hub Premier  EPL 04
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501580
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub5.png" group-title="EPL", Hub Premier  EPL 05
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501581
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 06" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub6.png" group-title="EPL", Hub Premier  EPL 06
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501582
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 07" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub7.png" group-title="EPL", Hub Premier  EPL 07
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501583
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 08" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub8.png" group-title="EPL", Hub Premier EPL 08
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501584
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 09" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub9.png" group-title="EPL", Hub Premier  EPL 09
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501585
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 10" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub10.png" group-title="EPL", Hub Premier EPL 10
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501586
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 11" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub11.png" group-title="EPL", Hub Premier EPL 11
-http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501587
 
 ===========SPORT EROPA================
 
@@ -1249,9 +1279,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORTS", SpoTV 2
 http://muka03.wanicelife.com:8880/12nkk180112/48733427/60482
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/165105
+http://37.49.225.197:8080/zaintree99/9SbSF3PDfNwq5RRE/165105
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT 2
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298506
+http://37.49.225.197:8080/zaintree99/9SbSF3PDfNwq5RRE/298506
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 FHD" tvg-logo="" group-title="SPORTS", TR:BEIN SPORTS 1 FHD
+http://233718146152712332.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/712332.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="" group-title="SPORTS", TR: BEIN SPORTS 2 FHD
+http://233718146152711498.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/711498.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="" group-title="SPORTS", TR: BEIN SPORTS 3 HD
+http://233718146152712333.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/712333.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="" group-title="SPORTS", TR: BEIN SPORTS 4 HD
+http://233718146152703720.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/703720.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="SPORTS", TR: BEIN SPORTS MAX 1 HD
+http://233718146152689831.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/689831.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MAX SPORTS 1 HD" tvg-logo="" group-title="SPORTS", TR: BEIN MAX SPORTS 2 HD
+http://233718146152698187.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/698187.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png" group-title="SPORTS" , Hub Sport 1 FHD
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/501593
