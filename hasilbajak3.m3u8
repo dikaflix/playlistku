@@ -219,9 +219,11 @@ http://37.49.225.197:8080/14e17190/e84b5c0d6a/162141
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="INDONESIA", KOMPAS TV
-http://37.49.225.197:8080/zaintree99/9SbSF3PDfNwq5RRE/165060
+#http://37.49.225.197:8080/zaintree99/9SbSF3PDfNwq5RRE/165060
+https://shorturl.at/KU567
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONESIA", ANTV
-http://37.49.225.197:8080/zaintree99/9SbSF3PDfNwq5RRE/165072
+#http://37.49.225.197:8080/zaintree99/9SbSF3PDfNwq5RRE/165072
+https://shorturl.at/artBH
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7
