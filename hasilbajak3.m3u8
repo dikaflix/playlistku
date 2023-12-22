@@ -672,6 +672,13 @@ http://37.49.225.197:8080/F22230/tWpeqg9RNJXSA5d6GmZnH2/298528
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES", Etv Bioskop 04
 http://37.49.225.197:8080/F22230/tWpeqg9RNJXSA5d6GmZnH2/298529
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="MOVIES", Cinemachi Extra
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683161&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="MOVIES", Cinemachi Max
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683173&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="MOVIES", Cinemachi Kids
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683085&extension=ts&play_token=GVZS088tcf
+
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIES", AndPrive 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg" group-title="MOVIES", AndFlix 
