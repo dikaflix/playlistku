@@ -729,8 +729,10 @@ http://233718146152672483.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/672483.t
 http://163.172.55.74:8080/Baker22/HXdW4myavCMN/1886
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="EPL", Sky Sports Premier League UK
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/2877
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/premier-sports-uk.png" group-title="SPORTS", UK: Premier Sports 1
+http://sonyiptv.net:8080/3583483/1234/238730
 #EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" group-title="EPL", AF - SuperSport Premier League | HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68952
+http://sonyiptv.net:8080/3583483/1234/251903
 
 #EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 1 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928
@@ -772,7 +774,7 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69855
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 3" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 3
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69856
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 4" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 4
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69857
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69857
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 5" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 5
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69858
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 6" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 6
@@ -814,7 +816,7 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73133
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/2a681b1983ef2e7c687e0620d28a7c27.png" group-title="EPL", FR_Canal+_Premier_Ligue_FHD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53531
+http://sonyiptv.net:8080/3583483/1234/253507
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="EPL", Hub Premier  EPL 01
 http://gtvm.bmw786.xyz:80/Elizabeth/Elizabeth/625866
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="EPL", Hub Premier  EPL 02
