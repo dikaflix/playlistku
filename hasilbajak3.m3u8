@@ -417,6 +417,8 @@ http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck
 http://37.49.225.197:8080/9ba1ba9e/f0731c0237/197972
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="HBO PREMIUM", HBO Hits
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=HBOHits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="HBO PREMIUM", HBO Hits ID
+http://37.49.225.197:8080/9ba1ba9e/f0731c0237/196480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="HBO PREMIUM", HBO Family
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="HBO PREMIUM", HBO Signature
