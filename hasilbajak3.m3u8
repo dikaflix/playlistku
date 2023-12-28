@@ -415,8 +415,6 @@ http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="HBO PREMIUM", HBO
 http://37.49.225.197:8080/9ba1ba9e/f0731c0237/197972
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="HBO PREMIUM", HBO Hits
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=HBOHits
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="HBO PREMIUM", HBO Hits ID
 http://37.49.225.197:8080/9ba1ba9e/f0731c0237/196480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="HBO PREMIUM", HBO Family
@@ -463,6 +461,8 @@ http://37.49.225.197:8080/9ba1ba9e/f0731c0237/165094
 http://37.49.225.197:8080/9ba1ba9e/f0731c0237/197967
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="KNOWLEDGE", HGTV
 http://37.49.225.197:8080/9ba1ba9e/f0731c0237/298535
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="KNOWLEDGE", History
 http://37.49.225.197:8080/9ba1ba9e/f0731c0237/162519
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="KNOWLEDGE", Asian Food Network
