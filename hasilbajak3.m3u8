@@ -1,4 +1,4 @@
-+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 1
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 1
 #http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=261969&extension=ts&play_token=r737rSi3j8
 http://233718146152701891.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/701891.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 2
@@ -682,11 +682,10 @@ http://aziz.social:88/02023897282664/02023897282664/93659
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="MOVIES", MNOW
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", PT: AXN Movies FHD
-http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/956
+http://aziz.social:88/02023897282664/02023897282664/95338
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", PT: FOX MOVIES FHD
-http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/900
+http://aziz.social:88/02023897282664/02023897282664/95346
 
 ==========EPL===============
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" group-title="EPL", STAR SPORTS SELECT 1
@@ -844,27 +843,27 @@ http://37.49.225.197:8080/F33476/7458dae3/26662
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/elevensport1.png" group-title="EROPA SPORT", PT: ELEVEN SPORT 1
 http://233718146152681181.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/681181.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/elevensport1.png" group-title="EROPA SPORT", ELEVEN SPORT 1
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224093
+http://aziz.social:88/02023897282664/02023897282664/95418
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/elevensport2.png" group-title="EROPA SPORT", PT: ELEVEN SPORT 2
 http://233718146152705385.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/705385.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/elevensport2.png" group-title="EROPA SPORT", ELEVEN SPORT 2
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224095
+http://aziz.social:88/02023897282664/02023897282664/95419
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/elevensport3.png" group-title="EROPA SPORT", PT: ELEVEN SPORT 3
 http://233718146152681185.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/681185.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/elevensport3.png" group-title="EROPA SPORT", ELEVEN SPORT 3
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224097
+http://aziz.social:88/02023897282664/02023897282664/95420
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/elevensport4.png" group-title="EROPA SPORT", PT: ELEVEN SPORT 4
 http://233718146152681187.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/681187.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/elevensport4.png" group-title="EROPA SPORT", ELEVEN SPORT 4
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224099
+http://aziz.social:88/02023897282664/02023897282664/95421
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://asiagrandiptv.us/logo//elevensports5vip.png" group-title="EROPA SPORT", PT: ELEVEN SPORT 5
 http://233718146152681189.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/681189.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://asiagrandiptv.us/logo//elevensports5vip.png" group-title="EROPA SPORT", ELEVEN SPORT 5
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224101
+http://aziz.social:88/02023897282664/02023897282664/95422
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://asiagrandiptv.us/logo/elevensports6vip.png" group-title="EROPA SPORT", PT: ELEVEN SPORT 6
 http://233718146152681191.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/681191.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://asiagrandiptv.us/logo/elevensports6vip.png" group-title="EROPA SPORT", ELEVEN SPORT 6
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224103
+http://aziz.social:88/02023897282664/02023897282664/95423
 
 #EXTINF:-1 tvg-ID="polsatsportpremium1.pl" tvg-name="|PL| POLSAT SPORT PREM. 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_1.png" group-title="EROPA SPORT", |PL| POLSAT SPORT PREM. 1 HD
 http://aziz.social:88/02023897282664/02023897282664/94953
@@ -890,25 +889,25 @@ http://aziz.social:88/02023897282664/02023897282664/94962
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://asiagrandiptv.us/logo/sporttv1.png" group-title="EROPA SPORT", PT: SPORT TV 1
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/3192
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://asiagrandiptv.us/logo/sporttv1.png" group-title="EROPA SPORT", SPORT TV 1
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224080
+http://aziz.social:88/02023897282664/02023897282664/95406
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://asiagrandiptv.us/logo/sporttv2.png" group-title="EROPA SPORT", PT: SPORT TV 2
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/3191
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://asiagrandiptv.us/logo/sporttv2.png" group-title="EROPA SPORT", SPORT TV 2
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224082
+http://aziz.social:88/02023897282664/02023897282664/95411
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://asiagrandiptv.us/logo/sporttv3.png" group-title="EROPA SPORT", PT: SPORT TV 3
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/3190
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://asiagrandiptv.us/logo/sporttv3.png" group-title="EROPA SPORT", SPORT TV 3
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224084
+http://aziz.social:88/02023897282664/02023897282664/95413
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://asiagrandiptv.us/logo/sporttv4.png" group-title="EROPA SPORT", PT: SPORT TV 4
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/3189
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://asiagrandiptv.us/logo/sporttv4.png" group-title="EROPA SPORT", SPORT TV 4
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224086
+http://aziz.social:88/02023897282664/02023897282664/95415
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://asiagrandiptv.us/logo/sporttv5.png" group-title="EROPA SPORT", PT: SPORT TV 5
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224088
+http://aziz.social:88/02023897282664/02023897282664/95416
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://asiagrandiptv.us/logo/sporttv5.png" group-title="EROPA SPORT", SPORT TV 5
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/3188
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/sporttv5.png" group-title="EROPA SPORT", PT: Sport TV 6
-http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224090
+http://aziz.social:88/02023897282664/02023897282664/200526
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/sporttv5.png" group-title="EROPA SPORT", Sport TV 6
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/3187
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="https://asiagrandiptv.us/logo/sporttvnba.png" group-title="EROPA SPORT", PT: SPORT TV NBA
@@ -1218,19 +1217,22 @@ http://163.172.55.74:8080/Sue.W.2023_WAL!/URAQ9XwcqhB4jGGwq/14644
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg", TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="SPORTS", MNC SPORTSTAR
-http://muka03.wanicelife.com:8880/48msk050004/62869843/60357
+#http://muka03.wanicelife.com:8880/48msk050004/62869843/60357
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/60357
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="SPORTS", MNC SPORTSTAR 2
 http://37.49.225.197:8080/F33476/7458dae3/298548
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="SPORTS", MNC SPORTSTAR 3
-http://muka03.wanicelife.com:8880/48msk050004/62869843/60411
+#http://muka03.wanicelife.com:8880/48msk050004/62869843/60411
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/60411
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORTS", SpoTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORTS", SpoTV
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683117&extension=ts&play_token=GVZS088tcf
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/60448
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORTS", SpoTV 2 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORTS", SpoTV 2
-http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60482
+#http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60482
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/60482
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT
 http://37.49.225.197:8080/F33476/7458dae3/165105
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT 2
@@ -1265,8 +1267,8 @@ http://muka03.wanicelife.com:8880/48msk050004/62869843/2828
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-id="LFCTV HD" tvg-name="LFC TV HD" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/lfctv-uk.png" group-title="SPORTS",LFC TV HD
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/2861
+#EXTINF:-1 tvg-id="LFCTV HD" tvg-name="LFC TV HD" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/lfctv-uk.png" group-title="SPORTS", LFC TV HD
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/28949
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="SPORTS", UK: Sky Sports Main Event
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508252
@@ -1275,8 +1277,7 @@ http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508240
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sky_Sports_Box_Office.png" group-title="SPORTS", UK: SKY SPORTS Box Office [Events Only]
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508242
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png"  group-title="SPORTS" , Sky Sports Football FHD
-#http://163.172.55.74:8080/Sue.W.2023_WAL!/URAQ9XwcqhB4jGGwq/1873
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50058
+http://163.172.55.74:8080/Sue.W.2023_WAL!/URAQ9XwcqhB4jGGwq/1873
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SPORTS", UK: Sky Sports F1
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508246
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="SPORTS", UK: Sky Sports Golf
@@ -1287,7 +1288,7 @@ http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508254
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508256
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/premier-sports-uk.png" group-title="SPORTS", UK: Premier Sports 1
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/793
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/28862
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="SPORTS", UK: Premier Sports 2
 http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508231
 #EXTINF:-1 tvg-id="premiersports.uk" tvg-name="Viaplay 1" tvg-logo="https://seeklogo.com/images/V/viaplay-logo-400E84BCF6-seeklogo.com.png" group-title="SPORTS", Viaplay 1
@@ -1350,10 +1351,9 @@ http://163.172.55.74:8080/Sue.W.2023_WAL!/URAQ9XwcqhB4jGGwq/1868
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/eurosport-1-uk.png" group-title="SPORTS", Eurosport 1
-http://xloxttv.info:8080/4ggaXGuVZKHR/JpM4AtxKd9St/233287
-
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/2917
 #EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="Eurosport 2" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/eurosport-2-uk.png" group-title="SPORTS", Eurosport 2
-http://xloxttv.info:8080/4ggaXGuVZKHR/JpM4AtxKd9St/233290
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/2916
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/mimipipi22/lalajo/blob/main/logo%20fmx/Eurosport%20SD-FirstMedia-Chl-151.jpg",Eurosport (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
