@@ -349,7 +349,7 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=
 http://ktpremium.com:2095/QPP76780098/370084/73989
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA", ID: FLIK
 http://37.49.225.197:8080/F33476/7458dae3/165095
-EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="INDONESIA", Flik (*)
+EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="INDONESIA", Flik (*)
 https://s.id/flikHD_shareext-ts
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/165095
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits HD
@@ -694,18 +694,14 @@ http://magstreamz.com:8080/English32/hSNHWYh5jw/405957
 #EXTINF:-1 tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" group-title="EPL", 4K HubPremier2 SG
 http://magstreamz.com:8080/English32/hSNHWYh5jw/510623
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6VC6CXQ/Dise-o-sin-t-tulo-27.png" group-title="EPL", Dazn1 ᶠᴴᴰ
-http://xloxttv.info:8080/4ggaXGuVZKHR/JpM4AtxKd9St/233327
+http://aziz.social:88/02023897282664/02023897282664/127832
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh05xcm3/Dise-o-sin-t-tulo-28.png" group-title="EPL", Dazn2 ᶠᴴᴰ
-http://xloxttv.info:8080/4ggaXGuVZKHR/JpM4AtxKd9St/233332
+http://aziz.social:88/02023897282664/02023897282664/127833
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmmqZT3h/Dise-o-sin-t-tulo-29.png" group-title="EPL", Dazn3 ᴴᴰ
-http://xloxttv.info:8080/4ggaXGuVZKHR/JpM4AtxKd9St/233337
+http://aziz.social:88/02023897282664/02023897282664/127834
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJDm1MX2/Dise-o-sin-t-tulo-30.png" group-title="EPL", Dazn4 ᶠᴴᴰ
-http://xloxttv.info:8080/4ggaXGuVZKHR/JpM4AtxKd9St/233341
+http://aziz.social:88/02023897282664/02023897282664/127835
 
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/diema_sport_bg.png" group-title="EPL", BG: DIEMA SPORT FHD
-http://233718146152375686.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/375686.ts
-#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_plus_bg_hd.png" group-title="EPL", BG: DIEMA SPORT 2 FHD
-http://233718146152708660.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/708660.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="EPL",Now Premier Sports 1
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
@@ -776,6 +772,13 @@ http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/30488
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/30487
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL148FilmAksionHD.png" group-title="EROPA SPORT", SUPER SPORTS 7
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/30486
+
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/diema_sport_bg.png" group-title="EROPA SPORT", BG: DIEMA SPORT 
+http://233718146152375686.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/375686.ts
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_plus_bg_hd.png" group-title="EROPA SPORT", BG: DIEMA SPORT 2
+http://233718146152708660.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/708660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BG: DIEMA SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/BULGARIA/Diema_Sport_3_HD.png" group-title="EROPA SPORT", BG: DIEMA SPORT 3
+http://aziz.social:88/02023897282664/02023897282664/144828
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL171FilmFamilyHD.png" group-title="EROPA SPORT", TRING SPORT 1
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/30463
