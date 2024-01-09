@@ -253,16 +253,19 @@ http://ktpremium.com:2095/QPP76780098/370084/73607
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="INDONESIA", KOMPAS TV
 #http://37.49.225.197:8080/F33476/7458dae3/165060
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683194&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONESIA", ANTV
 #http://37.49.225.197:8080/F33476/7458dae3/165072
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7 HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683116&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144556368_b744100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="INDONESIA", TRANS TV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683100&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1274875783_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTIHD
@@ -307,9 +310,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="INDONESIA", OK TV
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60484 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="INDONESIA", Jak TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8 
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="INDONESIA", JTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683115&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="INDONESIA", Berita Satu
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60476
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="INDONESIA", Entertainment
@@ -351,7 +356,6 @@ http://ktpremium.com:2095/QPP76780098/370084/73989
 http://37.49.225.197:8080/F33476/7458dae3/165095
 EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="INDONESIA", Flik (*)
 https://s.id/flikHD_shareext-ts
-http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/165095
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits HD
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60455
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits
@@ -1233,10 +1237,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORTS", SpoTV 2
 #http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60482
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/60482
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT ID
 http://37.49.225.197:8080/F33476/7458dae3/165105
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT 2 ID
 http://37.49.225.197:8080/F33476/7458dae3/298506
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683139&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT 2
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683138&extension=ts&play_token=GVZS088tcf
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 FHD" tvg-logo="" group-title="SPORTS", TR:BEIN SPORTS 1 FHD
 http://233718146152712332.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/712332.ts
