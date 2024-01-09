@@ -17,18 +17,107 @@ http://233718146152373766.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/373766.t
 #http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487776&extension=ts&play_token=EU9fu8BNGt fox sport 1
 http://233718146152674412.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/674412.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 8
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=676049&extension=ts&play_token=r737rSi3j8 tudn dazn 1 de
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54513
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=676049&extension=ts&play_token=r737rSi3j8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 9
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=577920&extension=ts&play_token=r737rSi3j8
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=577920&extension=ts&play_token=r737rSi3j8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 10
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=550436&extension=ts&play_token=r737rSi3j8
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=550436&extension=ts&play_token=r737rSi3j8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 11
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626873&extension=ts&play_token=r737rSi3j8 tsn4 ote 2
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4589
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626873&extension=ts&play_token=r737rSi3j8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 12
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8 tsn5 ote 3
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4590
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8 tsn5
+
+==========BEIN SPORTS HD============
+
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="BEIN SPORTS GLOBAL FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS GLOBAL FHD K
+http://aziz.social:88/02026294712878/4979767873/402531
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
+http://aziz.social:88/02026294712878/4979767873/60958
+#EXTINF:-1 tvg-ID="beinsports1.qa	" tvg-name="BEIN SPORTS 1 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD K
+http://aziz.social:88/02026294712878/4979767873/402521
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
+http://aziz.social:88/02026294712878/4979767873/28751
+#EXTINF:-1 tvg-ID="beinsports2.qa	" tvg-name="BEIN SPORTS 2 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD K
+http://aziz.social:88/02026294712878/4979767873/402522
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FHD
+http://aziz.social:88/02026294712878/4979767873/60959
+#EXTINF:-1 tvg-ID="beinsports3.qa	" tvg-name="BEIN SPORTS 3 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FHD K
+http://aziz.social:88/02026294712878/4979767873/402523
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 FHD
+http://aziz.social:88/02026294712878/4979767873/36301
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 FHD K
+http://aziz.social:88/02026294712878/4979767873/402524
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 FHD
+http://aziz.social:88/02026294712878/4979767873/36302
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 FHD K
+http://aziz.social:88/02026294712878/4979767873/402525
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD
+http://aziz.social:88/02026294712878/4979767873/36300
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD K
+http://aziz.social:88/02026294712878/4979767873/402526
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 FHD
+http://aziz.social:88/02026294712878/4979767873/36299
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 FHD K
+http://aziz.social:88/02026294712878/4979767873/402527
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 FHD
+http://aziz.social:88/02026294712878/4979767873/36298
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 FHD K
+http://aziz.social:88/02026294712878/4979767873/402528
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 FHD
+http://aziz.social:88/02026294712878/4979767873/36297
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 FHD K
+http://aziz.social:88/02026294712878/4979767873/402529
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH FHD
+http://aziz.social:88/02026294712878/4979767873/36295
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH FHD K
+http://aziz.social:88/02026294712878/4979767873/402537
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="BEIN SPORTS 2 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 ENGLISH FHD
+http://aziz.social:88/02026294712878/4979767873/36294
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="BEIN SPORTS 2 ENGLISH FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-2-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 ENGLISH FHD K
+http://aziz.social:88/02026294712878/4979767873/402538
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="BEIN SPORTS 1 FRENCH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-1-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FRENCH FHD
+http://aziz.social:88/02026294712878/4979767873/63499
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="BEIN SPORTS 1 FRANCE FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-1-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FRANCE FHD K
+http://aziz.social:88/02026294712878/4979767873/402539
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="BEIN SPORTS 2 FRENCH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-2-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FRENCH FHD
+http://aziz.social:88/02026294712878/4979767873/63500
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="BEIN SPORTS 2 FRANCE FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-2-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FRANCE FHD K
+http://aziz.social:88/02026294712878/4979767873/402540
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 FRANCE FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-3-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FRANCE FHD K
+http://aziz.social:88/02026294712878/4979767873/402541
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="BEIN SPORTS XTRA 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 1 FHD
+http://aziz.social:88/02026294712878/4979767873/135167
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="BEIN SPORTS 1 XTRA FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 XTRA FHD K
+http://aziz.social:88/02026294712878/4979767873/402534
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="BEIN SPORTS XTRA 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 2 FHD
+http://aziz.social:88/02026294712878/4979767873/135168
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="BEIN SPORTS 2 XTRA FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 XTRA FHD K
+http://aziz.social:88/02026294712878/4979767873/402535
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="BEIN SPORTS XTRA 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 3 FHD
+http://aziz.social:88/02026294712878/4979767873/36296
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="BEIN SPORTS 3 XTRA FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra3-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 XTRA FHD K
+http://aziz.social:88/02026294712878/4979767873/402536
+#EXTINF:-1 tvg-ID="beinsportsafc.qa" tvg-name="BEIN SPORTS AFC FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC FHD
+http://aziz.social:88/02026294712878/4979767873/176994
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC FHD K
+http://aziz.social:88/02026294712878/4979767873/402533
+#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 1 FHD
+http://aziz.social:88/02026294712878/4979767873/176995
+#EXTINF:-1 tvg-ID="beinsportsnba.qa" tvg-name="BEIN SPORTS NBA FHD K" tvg-logo="" group-title="BEIN SPORTS HD",BEIN SPORTS NBA FHD K
+http://aziz.social:88/02026294712878/4979767873/402532
+#EXTINF:-1 tvg-ID="beinsportsafc.qa" tvg-name="BEIN SPORTS AFC HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC HD
+http://aziz.social:88/02026294712878/4979767873/435959
+#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 1 HD
+http://aziz.social:88/02026294712878/4979767873/435960
+#EXTINF:-1 tvg-ID="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 2 HD
+http://aziz.social:88/02026294712878/4979767873/435961
+#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 3 HD
+http://aziz.social:88/02026294712878/4979767873/435962
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 4 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 4 HD
+http://aziz.social:88/02026294712878/4979767873/435963
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 5 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 5 HD
+http://aziz.social:88/02026294712878/4979767873/435964
+
 
 ==========LIGA CHAMPION=============
 
@@ -153,7 +242,7 @@ http://tvlatino.club:2082/GDK8520/z8ekrWRFcUGQ/190691
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar (D*)
 https://bit.ly/3MeFJVc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital FHD
-http://mykingtv.net:2082/gadget1k85/pass1k85/5117
+http://37.49.225.197:8080/F33476/7458dae3/5117
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar HD
 http://ktpremium.com:2095/QPP76780098/370084/73617
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV Digital
@@ -261,7 +350,8 @@ http://ktpremium.com:2095/QPP76780098/370084/73989
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA", ID: FLIK
 http://37.49.225.197:8080/F33476/7458dae3/165095
 EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="INDONESIA", Flik (*)
-https://mantul.biz.id:443/ekos/748382/223.ts
+https://s.id/flikHD_shareext-ts
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/165095
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits HD
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60455
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits
@@ -693,15 +783,15 @@ http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/30463
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/30462
 
 #EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/arenasport1.png" group-title="EROPA SPORT", CRO: ARENA SPORT 1
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/916
+http://aziz.social:88/02023897282664/02023897282664/79784
 #EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/arenasport2.png" group-title="EROPA SPORT", CRO: ARENA SPORT 2
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/914
+http://aziz.social:88/02023897282664/02023897282664/79786
 #EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/arenasport3.png" group-title="EROPA SPORT", CRO: ARENA SPORT 3
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/912
+http://aziz.social:88/02023897282664/02023897282664/79787
 #EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/arenasport4.png" group-title="EROPA SPORT", CRO: ARENA SPORT 4
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/910
+http://aziz.social:88/02023897282664/02023897282664/79788
 #EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://asiagrandiptv.us/logo/arenasport5.png" group-title="EROPA SPORT", CRO: ARENA SPORT 5
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/908
+http://aziz.social:88/02023897282664/02023897282664/79793
 #EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://asiagrandiptv.us/logo/arenasport6.png" group-title="EROPA SPORT", CRO: ARENA SPORT 6
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/46252
 
@@ -741,6 +831,27 @@ http://233718146152681191.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/681191.t
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://asiagrandiptv.us/logo/elevensports6vip.png" group-title="EROPA SPORT", ELEVEN SPORT 6
 http://iptvch.com:2082/7Yfd82An4EncW4di/vHd0H7gJ@64JeiLgdj6/224103
 
+#EXTINF:-1 tvg-ID="polsatsportpremium1.pl" tvg-name="|PL| POLSAT SPORT PREM. 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_1.png" group-title="EROPA SPORT", |PL| POLSAT SPORT PREM. 1 HD
+http://aziz.social:88/02023897282664/02023897282664/94953
+#EXTINF:-1 tvg-ID="polsatsportpremium2.pl" tvg-name="|PL| POLSAT SPORT PREM. 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_2.png" group-title="EROPA SPORT", |PL| POLSAT SPORT PREM. 2 HD
+http://aziz.social:88/02023897282664/02023897282664/94954
+#EXTINF:-1 tvg-ID="polsatsportpremium3ppv.pl" tvg-name="|PL| POLSAT SPORT PREM. 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV3.png" group-title="EROPA SPORT", |PL| POLSAT SPORT PREM. 3 HD
+http://aziz.social:88/02023897282664/02023897282664/94955
+#EXTINF:-1 tvg-ID="polsatsportpremium4ppv.pl" tvg-name="|PL| POLSAT SPORT PREM. 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV4.png" group-title="EROPA SPORT", |PL| POLSAT SPORT PREM. 4 HD
+http://aziz.social:88/02023897282664/02023897282664/94956
+#EXTINF:-1 tvg-ID="polsatsportpremium5ppv.pl" tvg-name="|PL| POLSAT SPORT PREM. 5 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV5.png" group-title="EROPA SPORT", |PL| POLSAT SPORT PREM. 5 HD
+http://aziz.social:88/02023897282664/02023897282664/94957
+#EXTINF:-1 tvg-ID="polsatsportpremium6ppv.pl" tvg-name="|PL| POLSAT SPORT PREM. 6 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV6.png" group-title="EROPA SPORT", |PL| POLSAT SPORT PREM. 6 HD
+http://aziz.social:88/02023897282664/02023897282664/94958
+#EXTINF:-1 tvg-ID="elevensports1.pl" tvg-name="|PL| ELEVENSPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eleven_Sports_1_HD.png" group-title="EROPA SPORT", |PL| ELEVENSPORT 1 HD
+http://aziz.social:88/02023897282664/02023897282664/94959
+#EXTINF:-1 tvg-ID="elevensports2.pl" tvg-name="|PL| ELEVENSPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eleven_Sports_2_HD.png" group-title="EROPA SPORT", |PL| ELEVENSPORT 2 HD
+http://aziz.social:88/02023897282664/02023897282664/94960
+#EXTINF:-1 tvg-ID="elevensports3.pl" tvg-name="|PL| ELEVENSPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Eleven_Sports_3_HD.png" group-title="EROPA SPORT", |PL| ELEVENSPORT 3 HD
+http://aziz.social:88/02023897282664/02023897282664/94961
+#EXTINF:-1 tvg-ID="elevensportsports4.pl" tvg-name="|PL| ELEVENSPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/ELEVEN_SPORTS_4_HD.png" group-title="EROPA SPORT", |PL| ELEVENSPORT 4 HD
+http://aziz.social:88/02023897282664/02023897282664/94962
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://asiagrandiptv.us/logo/sporttv1.png" group-title="EROPA SPORT", PT: SPORT TV 1
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/3192
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://asiagrandiptv.us/logo/sporttv1.png" group-title="EROPA SPORT", SPORT TV 1
@@ -771,23 +882,22 @@ http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/29366
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/29366
 
 #EXTINF:-1 tvg-id="" tvg-name="RO: ORANGE SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/telekomsport1.png" group-title="EROPA SPORT", RO: ORANGE SPORT 1
-#http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52351
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/31780
 #EXTINF:-1 tvg-id="" tvg-name="RO: ORANGE SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/telekomsport2.png" group-title="EROPA SPORT", RO: ORANGE SPORT 2
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52352
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/31779
 #EXTINF:-1 tvg-id="" tvg-name="RO: ORANGE SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/telekomsport3.png" group-title="EROPA SPORT", RO: ORANGE SPORT 3
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52353
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/31778
 #EXTINF:-1 tvg-id="" tvg-name="RO: ORANGE SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/telekomsport4.png" group-title="EROPA SPORT", RO: ORANGE SPORT 4
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/31777
 
 #EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/digisport1.png" group-title="EROPA SPORT", RO: DIGI SPORT 1
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46984
+http://aziz.social:88/02023897282664/02023897282664/95544
 #EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/digisport2.png" group-title="EROPA SPORT", RO: DIGI SPORT 2
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46983
+http://aziz.social:88/02023897282664/02023897282664/95546
 #EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/digisport3.png" group-title="EROPA SPORT", RO: DIGI SPORT 3
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46982
+http://aziz.social:88/02023897282664/02023897282664/95548
 #EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/digisport4.png" group-title="EROPA SPORT", RO: DIGI SPORT 4
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46981
+http://aziz.social:88/02023897282664/02023897282664/95549
 
 ===========SPORT AMERICA===================
 
@@ -878,27 +988,6 @@ http://103.120.172.74:5200
 http://103.120.172.74:5300
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png",Sony Sport1
 http://103.120.172.74:5400
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Sport",BeIN Sports Global SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330456&extension=ts&play_token=Wqb2u8l32c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Sport",BeIN Sports 1 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330457&extension=ts&play_token=3XWc1rIXr2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="BeIN Sport",BeIN Sports 2 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330458&extension=ts&play_token=5qFMBbq6ve
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="BeIN Sport",BeIN Sports 3 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330459&extension=ts&play_token=GMV2fLHiK9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="BeIN Sport",BeIN Sports 4 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330460&extension=ts&play_token=Rpp56gZzg0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="BeIN Sport",BeIN Sports 5 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330461&extension=ts&play_token=xXYTRtDsJU
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Sport",BeIN Sports 6 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330462&extension=ts&play_token=jBQzIC10Dh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="BeIN Sport",BeIN Sports 7 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330463&extension=ts&play_token=yUICKaxd4X
-#EXTINF:-1 tvg-logo="" group-title="BeIN Sport",BeIN Sports 8 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330464&extension=ts&play_token=PgijhWlRhC
-#EXTINF:-1 tvg-logo="" group-title="BeIN Sport",BeIN Sports 9 SD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330465&extension=ts&play_token=xeaOF42VVL
 
 ============ARABIC SPORT===========
 
