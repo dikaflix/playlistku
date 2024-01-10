@@ -376,8 +376,10 @@ http://rr1.dens.tv/h/h16/01.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK
 http://37.49.225.197:8080/F33476/7458dae3/298564
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="INDONESIA", Animax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animax.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="INDONESIA", Animax ID
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png", Aniplus (*)
-https://mantul.biz.id:443/ekos/748382/265.ts
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png", Aniplus
 http://37.49.225.197:8080/F33476/7458dae3/298504
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="INDONESIA", AXN
