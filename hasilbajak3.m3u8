@@ -766,24 +766,35 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63113
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63114
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Astro -EPL 4" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="EPL",EPL - Astro -EPL 4
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63598
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 1 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 1 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 1 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73125
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 2 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 2 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 2 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73126
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 3 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 3 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 3 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73127
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 4 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 4 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 4 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73128
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 5 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 5 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 5 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73129
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 6 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 6 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 6 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73130
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 7 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 7 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 7 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73131
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 8 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 8 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 8 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73132
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 9 HD" tvg-logo="" group-title="EPL",NZ - Sky Sport 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 9 HD" tvg-logo="" group-title="EPL", NZ - Sky Sport 9 HD
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73133
+
+#EXTINF:-1 group-title="EPL" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/2a681b1983ef2e7c687e0620d28a7c27.png" group-title="EPL", Champion 6 V*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1382,6 +1393,9 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/2916
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/mimipipi22/lalajo/blob/main/logo%20fmx/Eurosport%20SD-FirstMedia-Chl-151.jpg",Eurosport (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
+https://edge1.laotv.la/live/THD7/index.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1411,7 +1425,9 @@ http://abc123.digital:8080/alan_2010@live.com/dCG5hQjMkb/508209
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/11180b35a4af7a58b8a12330303028c9.png" group-title="SPORTS", WWE Network
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58571
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/aaee4744d0f23c4208c841f88a3ee149.png" group-title="SPORTS", UFC Fight Pass
-http://xloxttv.info:8080/4ggaXGuVZKHR/JpM4AtxKd9St/220393
+http://aziz.social:88/02026294712878/4979767873/159645
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", 24/7 WRESTLEMANIA CLASSIC
 http://hdhd.tk:80/xaydensdaddy23@gmail.com/xaydcn9946/34024
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/bIYazyuBDoqzUzWBDTYEUeNw77e.jpg" group-title="SPORTS", 24/7: WWE SummerSlam
