@@ -500,6 +500,14 @@ http://cdn1host.online:2999/A9562650249/pSkgl4xAKF/1193
 http://cdn1host.online:2999/A9562650249/pSkgl4xAKF/1194
 #EXTINF:-1 tvg-ID="mtvmusic.uk" tvg-name="UK-SD: MTV MUSIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MTV_MUSIC.png" group-title="MUSIC", MTV MUSIC
 http://aziz.social:88/02023897282664/02023897282664/102182
+
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" tvg-chno="1537" group-title="MUSIC" , NEW KPOP
+https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="MUSIC", K Pop Channel
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="MUSIC", K-Pop
+https://marine2.miplay.cl/kpop/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png" group-title="MUSIC", MTV Live (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="MUSIC" , MTV 00s
@@ -510,6 +518,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/2897
 #EXTINF:-1 tvg-ID="kerrang.uk" tvg-name="UK-SD: KERRANG" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Kerrang!.png" group-title="MUSIC", KERRANG
 http://aziz.social:88/02023897282664/02023897282664/102176
+
+#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" group-title="MUSIC" , Vevo 2K
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
+#EXTINF:-1 channel-id="samsung-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20230322T000021SQUARE.png_20230322000021.png" tvg-chno="1521" group-title="MUSIC" , Vevo '80s
+https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="MUSIC" , Vevo '90s
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
+#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" tvg-chno="1524" group-title="MUSIC" , Vevo 2010s
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png" tvg-chno="1525" group-title="MUSIC" , Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
+#EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png" tvg-chno="1532" group-title="MUSIC" , Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
 
 =============MALAYSIA===============
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="MALAYSIA", TV1
