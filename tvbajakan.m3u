@@ -1,32 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 1
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=261969&extension=ts&play_token=r737rSi3j8
-http://233718146152701891.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/701891.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63112
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 3
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63113
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 4
-http://magstreamz.com:8080/English32/hSNHWYh5jw/485566
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 5
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487641&extension=ts&play_token=r737rSi3j8  fox soccer plus
-http://233718146152681277.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/681277.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 6
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487775&extension=ts&play_token=r737rSi3j8 fox sport 2
-http://233718146152373766.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/373766.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 7
-#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487776&extension=ts&play_token=EU9fu8BNGt fox sport 1
-http://233718146152674412.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/674412.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 8
-http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=676049&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 9
-http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=577920&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 10
-http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=550436&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 11
-http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626873&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/823/png-transparent-television-channel-live-television-television-show-streaming-television-others-television-text-trademark.png" group-title="LIVE", LIVE 12
-http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8 tsn5
+
+=========LIVE AFC=============
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", RCTI
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73606
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", Inews TV
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73605
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", Arena Bola 1 (VIP)
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/912889
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", Arena Bola 2  (VIP)
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/912890
+#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 1 HD
+http://aziz.social:88/02026294712878/4979767873/435960
+#EXTINF:-1 tvg-ID="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 2 HD
+http://aziz.social:88/02026294712878/4979767873/435961
+#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 3 HD
+http://aziz.social:88/02026294712878/4979767873/435962
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 4 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 4 HD
+http://aziz.social:88/02026294712878/4979767873/435963
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 5 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 5 HD
+http://aziz.social:88/02026294712878/4979767873/435964
 
 ==========BEIN SPORTS HD============
 
