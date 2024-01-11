@@ -742,6 +742,41 @@ http://sonyiptv.net:8080/3583483/1234/251903
 #EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" group-title="EPL", AMAZON PRIME
 https://mlb.mrgamingstreams.com/prem.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP (VIP)
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26312
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", [MY]ASTRO ASSP FHD
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/694537
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 2 (VIP)
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26313
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 2 FHD
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/694538
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 3 (VIP)
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26314
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 3 FHD
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/694540
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 4 (VIP)
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26315
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 4 FHD
+https://ktpremium.com:443/Norsyaheer4356/Fantom4356/694542
+
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="" group-title="EPL", |FR| CANAL+ FOOT FHD
+http://aziz.social:88/02026294712878/4979767873/199965
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Premier-ligue.png" group-title="EPL", |FR| CANAL+ PREMIER LEAGUE FHD
+http://aziz.social:88/02026294712878/4979767873/126816
+#EXTINF:-1 tvg-ID="multisports1.fr" tvg-name="|FR| MULTISPORTS 1 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/MULTISPORTS_1.png" group-title="EPL", |FR| MULTISPORTS 1 FHD
+http://aziz.social:88/02026294712878/4979767873/126946
+#EXTINF:-1 tvg-ID="multisports2.fr" tvg-name="|FR| MULTISPORTS 2 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/MULTISPORTS_2.png" group-title="EPL", |FR| MULTISPORTS 2 FHD
+http://aziz.social:88/02026294712878/4979767873/126947
+#EXTINF:-1 tvg-ID="multisports3.fr" tvg-name="|FR| MULTISPORTS 3 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/MULTISPORTS_3.png" group-title="EPL", |FR| MULTISPORTS 3 FHD
+http://aziz.social:88/02026294712878/4979767873/126948
+#EXTINF:-1 tvg-ID="multisports4.fr" tvg-name="|FR| MULTISPORTS 4 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/MULTISPORTS_4.png" group-title="EPL", |FR| MULTISPORTS 4 FHD
+http://aziz.social:88/02026294712878/4979767873/126949
+#EXTINF:-1 tvg-ID="multisports5.fr" tvg-name="|FR| MULTISPORTS 5 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/MULTISPORTS_5.png" group-title="EPL", |FR| MULTISPORTS 5 FHD
+http://aziz.social:88/02026294712878/4979767873/126950
+#EXTINF:-1 tvg-ID="multisports6.fr" tvg-name="|FR| MULTISPORTS 6 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/MULTISPORTS_6.png" group-title="EPL", |FR| MULTISPORTS 6 FHD
+http://aziz.social:88/02026294712878/4979767873/126951
+
+
 #EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 1 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928
 #EXTINF:-1 tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="EPL", EPL - Optus Sport 2 
