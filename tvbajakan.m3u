@@ -1,25 +1,76 @@
 #EXTM3U
 
-=========LIVE AFC=============
+=========ASIAN CUP 2024=============
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", RCTI
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", RCTI
 https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73606
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", Inews TV
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", Inews TV
 https://ktpremium.com:443/Norsyaheer4356/Fantom4356/73605
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", Arena Bola 1 (VIP)
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", Arena Bola 1 (VIP)
 https://ktpremium.com:443/Norsyaheer4356/Fantom4356/912889
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", Arena Bola 2  (VIP)
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", Arena Bola 2  (VIP)
 https://ktpremium.com:443/Norsyaheer4356/Fantom4356/912890
-#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 1 HD
-http://aziz.social:88/02026294712878/4979767873/435960
-#EXTINF:-1 tvg-ID="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 2 HD
-http://aziz.social:88/02026294712878/4979767873/435961
-#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 3 HD
-http://aziz.social:88/02026294712878/4979767873/435962
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 4 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 4 HD
-http://aziz.social:88/02026294712878/4979767873/435963
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 5 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="LIVE AFC", BEIN SPORTS AFC 5 HD
-http://aziz.social:88/02026294712878/4979767873/435964
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 4K" tvg-logo="" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 1 4K
+http://aziz.social:88/02026294712878/4979767873/548055
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 4K" tvg-logo="" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 2 4K
+http://aziz.social:88/02026294712878/4979767873/548056
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 HD" tvg-logo="" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 1 HD
+http://aziz.social:88/02026294712878/4979767873/548057
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 HD" tvg-logo="" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 2 HD
+http://aziz.social:88/02026294712878/4979767873/548058
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 SD" tvg-logo="" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 1 SD
+http://aziz.social:88/02026294712878/4979767873/548059
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 SD" tvg-logo="" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 2 SD
+http://aziz.social:88/02026294712878/4979767873/548060
+
+#EXTINF:-1 tvg-ID="" tvg-name="-------| BEIN MAX 4K |--------" tvg-logo="" group-title="AFRICA CUP 2024",-------| BEIN MAX 4K |--------
+http://aziz.social:88/02026294712878/4979767873/544114
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 1 4K" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 1 4K
+http://aziz.social:88/02026294712878/4979767873/544115
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 2 4K" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 2 4K
+http://aziz.social:88/02026294712878/4979767873/544116
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 3 4K" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 3 4K
+http://aziz.social:88/02026294712878/4979767873/544117
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 4 4K" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 4 4K
+http://aziz.social:88/02026294712878/4979767873/544118
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN 4K" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024",|AR| BEIN 4K
+http://aziz.social:88/02026294712878/4979767873/544119
+#EXTINF:-1 tvg-ID="" tvg-name="-------| BEIN MAX HD |--------" tvg-logo="" group-title="AFRICA CUP 2024",-------| BEIN MAX HD |--------
+http://aziz.social:88/02026294712878/4979767873/544120
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 1 HD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-HD.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 1 HD
+http://aziz.social:88/02026294712878/4979767873/544121
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 2 HD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-HD.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 2 HD
+http://aziz.social:88/02026294712878/4979767873/544122
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 3 HD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-HD.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 3 HD
+http://aziz.social:88/02026294712878/4979767873/544123
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 4 HD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-HD.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 4 HD
+http://aziz.social:88/02026294712878/4979767873/544124
+#EXTINF:-1 tvg-ID="" tvg-name="-------| BEIN MAX SD |--------" tvg-logo="" group-title="AFRICA CUP 2024",-------| BEIN MAX SD |--------
+http://aziz.social:88/02026294712878/4979767873/544125
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 1 SD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-SD.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 1 SD
+http://aziz.social:88/02026294712878/4979767873/544126
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 2 SD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-SD.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 2 SD
+http://aziz.social:88/02026294712878/4979767873/544127
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 3 SD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-SD.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 3 SD
+http://aziz.social:88/02026294712878/4979767873/544128
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 4 SD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-SD.png" group-title="AFRICA CUP 2024",|AR| BEIN SPORTS MAX 4 SD
+http://aziz.social:88/02026294712878/4979767873/544129
+#EXTINF:-1 tvg-ID="" tvg-name="-------| BEIN MAX ENGLICH |--------" tvg-logo="" group-title="AFRICA CUP 2024",-------| BEIN MAX ENGLICH |--------
+http://aziz.social:88/02026294712878/4979767873/544130
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| BEIN SPORTS MAX 5 EN 4K" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024",|EN| BEIN SPORTS MAX 5 EN 4K
+http://aziz.social:88/02026294712878/4979767873/544131
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| BEIN SPORTS MAX 5 EN HD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-HD.png" group-title="AFRICA CUP 2024",|EN| BEIN SPORTS MAX 5 EN HD
+http://aziz.social:88/02026294712878/4979767873/544132
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| BEIN SPORTS MAX 5 EN SD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-SD.png" group-title="AFRICA CUP 2024",|EN| BEIN SPORTS MAX 5 EN SD
+http://aziz.social:88/02026294712878/4979767873/544133
+#EXTINF:-1 tvg-ID="" tvg-name="-------| BEIN MAX FRENCH |--------" tvg-logo="" group-title="AFRICA CUP 2024",-------| BEIN MAX FRENCH |--------
+http://aziz.social:88/02026294712878/4979767873/544134
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BEIN SPORTS MAX 6 FR 4K" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024",|FR| BEIN SPORTS MAX 6 FR 4K
+http://aziz.social:88/02026294712878/4979767873/544135
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BEIN SPORTS MAX 6 FR HD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-HD.png" group-title="AFRICA CUP 2024",|FR| BEIN SPORTS MAX 6 FR HD
+http://aziz.social:88/02026294712878/4979767873/544136
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BEIN SPORTS MAX 6 FR SD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-SD.png" group-title="AFRICA CUP 2024",|FR| BEIN SPORTS MAX 6 FR SD
+http://aziz.social:88/02026294712878/4979767873/544137
 
 ==========BEIN SPORTS HD============
 
