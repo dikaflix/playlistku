@@ -2,10 +2,6 @@
 
 =========ASIAN CUP 2024=============
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", Arena Bola 1 (VIP)
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/912889
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", Arena Bola 2  (VIP)
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/912890
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 4K" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 1 4K
 http://aziz.social:88/02026294712878/4979767873/548055
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 4K" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 2 4K
@@ -574,7 +570,7 @@ http://kmkus.wanicelife.com:8880/48msk050004/62869843/59218
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 4
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/1719
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="MALAYSIA", ASTOR ARENA HD
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26308
+https://ktpremium.com:443/QPP76780098/370084/26308
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTOR ARENA 2 HD
 http://ktpremium.com:2095/QPP76780098/370084/26306
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAYSIA", ASTOR PRIMA HD
@@ -764,23 +760,6 @@ https://mlb.mrgamingstreams.com/prem.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/rhcrxe1642628636.png" group-title="EPL", BE| VOO SPORT WORLD 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=42370&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP (VIP)
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26312
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", [MY]ASTRO ASSP FHD
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/694537
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 2 (VIP)
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26313
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 2 FHD
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/694538
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 3 (VIP)
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26314
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 3 FHD
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/694540
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 4 (VIP)
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/26315
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Bluestraveller13/LOGO/main/KITKAT.png" group-title="EPL", ASTRO ASSP 4 FHD
-https://ktpremium.com:443/Norsyaheer4356/Fantom4356/694542
-
 #EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="" group-title="EPL", |FR| CANAL+ FOOT FHD
 http://aziz.social:88/02026294712878/4979767873/199965
 #EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Premier-ligue.png" group-title="EPL", |FR| CANAL+ PREMIER LEAGUE FHD
@@ -816,6 +795,31 @@ http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:12:34:56&stream=232237&exten
 http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:12:34:56&stream=232238&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="EPL", HUB PREMIER 8
 http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:12:34:56&stream=232239&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 1 HD" group-title="EPL",UK - OPTUS 1 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828068&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 2 HD" group-title="EPL",UK - OPTUS 2 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828067&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 3 HD" group-title="EPL",UK - OPTUS 3 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828066&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 4 HD" group-title="EPL",UK - OPTUS 4 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828065&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 5 HD" group-title="EPL",UK - OPTUS 5 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828064&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 6 HD" group-title="EPL",UK - OPTUS 6 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828063&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 7 HD" group-title="EPL",UK - OPTUS 7 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828062&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 8 HD" group-title="EPL",UK - OPTUS 8 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828061&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 9 HD" group-title="EPL",UK - OPTUS 9 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828060&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 10 HD" group-title="EPL",UK - OPTUS 10 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828059&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 11 HD" group-title="EPL",UK - OPTUS 11 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828058&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 12 HD" group-title="EPL",UK - OPTUS 12 HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=828057&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QzrVKdy/peacock.png" group-title="EPL", US Premier League TV (PC)
 http://magstreamz.com:8080/English32/hSNHWYh5jw/405957
