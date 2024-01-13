@@ -22,6 +22,8 @@ http://aziz.social:88/02026294712878/4979767873/548060
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=57809&extension=ts
 #EXTINF:-1 tvg-id="spor.smart.tr" tvg-name="TR221:SMART SPOR 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR221FOXTV.png" group-title="ASIAN CUP 2024", SMART SPOR 1
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/32848
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 1 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| SSC 1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=469895&extension=ts
 
 ===========AFRICA CUP 2024======================
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024", FR| BEIN SPORT 1 FHD
@@ -1187,19 +1189,15 @@ http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/435963
 http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/435964
 
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/SSC1_HD.png" group-title="SPORTS ARABIC",|AR| SSC 1 HD
-http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/222440
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=469895&extension=ts
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/SSC2_HD.png" group-title="SPORTS ARABIC",|AR| SSC 2 HD
-http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/222441
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=469896&extension=ts
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/SSC3_HD.png" group-title="SPORTS ARABIC",|AR| SSC 3 HD
-http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/222442
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=469897&extension=ts
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/SSC4_HD.png" group-title="SPORTS ARABIC",|AR| SSC 4 HD
-http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/222444
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=469898&extension=ts
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 5 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/SSC5_HD.png" group-title="SPORTS ARABIC",|AR| SSC 5 HD
-http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/222445
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 6 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/SSC6_HD.png" group-title="SPORTS ARABIC",|AR| SSC 6 HD
-http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/222446
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 7 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/SSC7_HD.png" group-title="SPORTS ARABIC",|AR| SSC 7 HD
-http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/222447
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=469899&extension=ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORT PREMIUM 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium1.png" group-title="SPORTS ARABIC",|AR| AD SPORT PREMIUM 1 SD
 http://p1.proiptv.co:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/204792
