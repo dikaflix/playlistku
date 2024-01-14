@@ -912,9 +912,9 @@ http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/30487
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/30486
 
 #EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/diema_sport_bg.png" group-title="EROPA SPORT", BG: DIEMA SPORT 
-http://233718146152375686.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/375686.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=205422&extension=ts
 #EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_plus_bg_hd.png" group-title="EROPA SPORT", BG: DIEMA SPORT 2
-http://233718146152708660.ofip231209.xyz:80/play/fe1108675/tnkP95abR@Na/708660.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=205421&extension=ts
 #EXTINF:-1 tvg-ID="" tvg-name="BG: DIEMA SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/BULGARIA/Diema_Sport_3_HD.png" group-title="EROPA SPORT", BG: DIEMA SPORT 3
 http://aziz.social:88/02023897282664/02023897282664/144828
 
