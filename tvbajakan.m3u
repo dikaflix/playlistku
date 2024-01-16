@@ -254,15 +254,15 @@ https://bit.ly/3MeFJVc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital FHD
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar HD
-http://ktpremium.com:2095/QPP76780098/370084/73617
+http://ktpremium.com:2095/PPT6832/62843/73617
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV Digital
 https://bit.ly/3Sc6EFk
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV HD
-http://ktpremium.com:2095/QPP76780098/370084/73607
+http://ktpremium.com:2095/PPT6832/62843/73607
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIA", Kompas TV MAX
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIA", Kompas TV ID
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683194&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="INDONESIA", KOMPAS TV
 #http://37.49.225.197:8080/F33476/7458dae3/165060
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
@@ -285,15 +285,15 @@ http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60479
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTI
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTIID
-http://ktpremium.com:2095/QPP76780098/370084/73606
+http://ktpremium.com:2095/PPT6832/62843/73606
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV HD
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV
-http://ktpremium.com:2095/QPP76780098/370084/73616
+http://ktpremium.com:2095/PPT6832/62843/73616
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA", GTV HD
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60292
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA", GTV
-http://ktpremium.com:2095/QPP76780098/370084/73619
+http://ktpremium.com:2095/PPT6832/62843/73619
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg", Tv One HD
 http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
@@ -344,26 +344,26 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="INDONESIA", Vision Prime
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60280
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="INDONESIA", IMC
-http://ktpremium.com:2095/QPP76780098/370084/73869
+http://ktpremium.com:2095/PPT6832/62843/73869
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONESIA", ONE
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60458
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg", KIX HD
 http://210.210.155.35/dr9445/h/h07/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=KIX_HD
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="INDONESIA", KIX
-http://ktpremium.com:2095/QPP76780098/370084/947917
+http://ktpremium.com:2095/PPT6832/62843/947917
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg", K-PLUS
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg", tvN
 http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_HD
 https://op-group2-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_HD
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="INDONESIA", TVN
-http://ktpremium.com:2095/QPP76780098/370084/73986
+http://ktpremium.com:2095/PPT6832/62843/73986
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg" group-title="INDONESIA", Nadoo Korean
 http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg" group-title="INDONESIA", Nadoo Korean Drama
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=jjj&chname=NaDooKorean
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="INDONESIA", ID: GEM
-http://ktpremium.com:2095/QPP76780098/370084/73989
+http://ktpremium.com:2095/PPT6832/62843/73989
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA", ID: FLIK
 http://37.49.225.197:8080/F33476/7458dae3/165095
 EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="INDONESIA", Flik (*)
@@ -371,7 +371,7 @@ https://s.id/flikHD_shareext-ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits HD
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60455
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA", Hits
-http://ktpremium.com:2095/QPP76780098/370084/73662
+http://ktpremium.com:2095/PPT6832/62843/73662
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg", My Kidz
 http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Kidz_HD
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action
@@ -431,15 +431,15 @@ http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck
 =========HBO PREMIUM====================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="HBO PREMIUM", HBO
-http://ktpremium.com:2095/QPP76780098/370084/73858
+http://ktpremium.com:2095/PPT6832/62843/73858
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="HBO PREMIUM", HBO Hits ID
-http://ktpremium.com:2095/QPP76780098/370084/73860
+http://ktpremium.com:2095/PPT6832/62843/73860
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="HBO PREMIUM", HBO Family
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="HBO PREMIUM", HBO Signature
-http://ktpremium.com:2095/QPP76780098/370084/73861
+http://ktpremium.com:2095/PPT6832/62843/73861
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="HBO PREMIUM", Cinemax
-http://ktpremium.com:2095/QPP76780098/370084/901196
+http://ktpremium.com:2095/PPT6832/62843/901196
 
 #EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png", HBO Signature* 
 http://208.115.225.174:14160
@@ -460,7 +460,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="KIDS", MKidZ
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mykidz.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="KIDS", DreamWorks
-http://ktpremium.com:2095/QPP76780098/370084/921749
+http://ktpremium.com:2095/PPT6832/62843/921749
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="KIDS", Nickelodeon
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60344
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="KIDS", Baby TV
@@ -476,21 +476,21 @@ http://aziz.social:88/02023897282664/02023897282664/93660
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="DOCUMENTARY", SONY BBC Earth
 http://aziz.social:88/02023897282664/02023897282664/93667
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="DOCUMENTARY", BBC Earth
-http://ktpremium.com:2095/QPP76780098/370084/26290
+http://ktpremium.com:2095/PPT6832/62843/26290
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="DOCUMENTARY", Discovery World
-http://ktpremium.com:2095/QPP76780098/370084/73970
+http://ktpremium.com:2095/PPT6832/62843/73970
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="DOCUMENTARY", Nat Geo
-http://ktpremium.com:2095/QPP76780098/370084/73966
+http://ktpremium.com:2095/PPT6832/62843/73966
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="DOCUMENTARY", Nat Geo Wild
-http://ktpremium.com:2095/QPP76780098/370084/73965
+http://ktpremium.com:2095/PPT6832/62843/73965
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="DOCUMENTARY", HGTV
-http://ktpremium.com:2095/QPP76780098/370084/73975
+http://ktpremium.com:2095/PPT6832/62843/73975
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="DOCUMENTARY", History
-http://ktpremium.com:2095/QPP76780098/370084/73968
+http://ktpremium.com:2095/PPT6832/62843/73968
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="DOCUMENTARY", Asian Food Network
-http://ktpremium.com:2095/QPP76780098/370084/916125
+http://ktpremium.com:2095/PPT6832/62843/916125
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="DOCUMENTARY", Dunia Lain
 http://37.49.225.197:8080/F33476/7458dae3/298524
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="DOCUMENTARY", Eat&Go
@@ -556,7 +556,7 @@ http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/1730
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV9
 http://muka03.wanicelife.com:8880/48msk050004/62869843/1729
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-okey-my.png" group-title="MALAYSIA", OKEY TV
-http://ktpremium.com:2095/QPP76780098/370084/656682
+http://ktpremium.com:2095/PPT6832/62843/656682
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MALAYSIA",BOO
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/1697
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", QUAN JIA
@@ -570,35 +570,35 @@ http://kmkus.wanicelife.com:8880/48msk050004/62869843/59218
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="MALAYSIA", Astor Super Sport 4
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/1719
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="MALAYSIA", ASTOR ARENA HD
-https://ktpremium.com:443/QPP76780098/370084/26308
+https://ktpremium.com:443/PPT6832/62843/26308
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTOR ARENA 2 HD
-http://ktpremium.com:2095/QPP76780098/370084/26306
+http://ktpremium.com:2095/PPT6832/62843/26306
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAYSIA", ASTOR PRIMA HD
 http://ktpremium.com:2095/mtmt3553/yrbd0op0/25862
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png", SENSASI HD
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD
-http://ktpremium.com:2095/QPP76780098/370084/26238
+http://ktpremium.com:2095/PPT6832/62843/26238
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-http://ktpremium.com:2095/QPP76780098/370084/25867
+http://ktpremium.com:2095/PPT6832/62843/25867
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
-http://ktpremium.com:2095/QPP76780098/370084/25852
+http://ktpremium.com:2095/PPT6832/62843/25852
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png", ASTOR AEC S
-http://ktpremium.com:2095/QPP76780098/370084/25968
+http://ktpremium.com:2095/PPT6832/62843/25968
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png", ASTOR QJ S
-http://ktpremium.com:2095/QPP76780098/370084/25970
+http://ktpremium.com:2095/PPT6832/62843/25970
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
-http://ktpremium.com:2095/QPP76780098/370084/908357
+http://ktpremium.com:2095/PPT6832/62843/908357
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
-http://ktpremium.com:2095/QPP76780098/370084/908356
+http://ktpremium.com:2095/PPT6832/62843/908356
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="MALAYSIA", PRIMA HD
-http://ktpremium.com:2095/QPP76780098/370084/25862
+http://ktpremium.com:2095/PPT6832/62843/25862
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="MALAYSIA", OASIS HD
-http://ktpremium.com:2095/QPP76780098/370084/25864
+http://ktpremium.com:2095/PPT6832/62843/25864
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD
-http://ktpremium.com:2095/QPP76780098/370084/25961
+http://ktpremium.com:2095/PPT6832/62843/25961
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png", Awesome TV
-http://ktpremium.com:2095/QPP76780098/370084/25828
+http://ktpremium.com:2095/PPT6832/62843/25828
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c8dS6nh/Sooka-Drama-Hebat.png" group-title="MALAYSIA", Drama Hebat 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
@@ -653,7 +653,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES", Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="MOVIES", Warner TV
-http://ktpremium.com:2095/QPP76780098/370084/73866
+http://ktpremium.com:2095/PPT6832/62843/73866
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg", Celestial Movies HD
 http://210.210.155.35/dr9445/h/h14/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Celestial_Movies
@@ -666,7 +666,7 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/165103
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", tvN Movies HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="MOVIES", TVN Movies
-http://ktpremium.com:2095/QPP76780098/370084/73986
+http://ktpremium.com:2095/PPT6832/62843/73986
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="MOVIES", GALAXY PREMIUM HD
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60374
@@ -676,7 +676,7 @@ http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60375
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="MOVIES", Hits Movies HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="MOVIES", Hits Movies
-http://ktpremium.com:2095/QPP76780098/370084/73855
+http://ktpremium.com:2095/PPT6832/62843/73855
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="MOVIES", Zee Bioskop
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60282
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="MOVIES", My Cinema
@@ -702,11 +702,11 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683085&extensi
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thrill Dens
 http://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thrill HD
-http://ktpremium.com:2095/QPP76780098/370084/73660
+http://ktpremium.com:2095/PPT6832/62843/73660
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thrill
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60283
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="MOVIES", CinemaWorld
-http://ktpremium.com:2095/QPP76780098/370084/901200
+http://ktpremium.com:2095/PPT6832/62843/901200
 
 #EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: COLORS INFINITY HD" tvg-logo="" group-title="MOVIES", COLORS INFINITY HD
 http://aziz.social:88/02023897282664/02023897282664/93649
