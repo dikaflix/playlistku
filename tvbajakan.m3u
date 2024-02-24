@@ -1,44 +1,5 @@
 #EXTM3U
 
-=========ASIAN CUP 2024=============
-
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 4K" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 1 4K
-http://aziz.social:88/02026294712878/4979767873/548055
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 4K" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 2 4K
-http://aziz.social:88/02026294712878/4979767873/548056
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 1 HD
-http://aziz.social:88/02026294712878/4979767873/548057
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 2 HD
-http://aziz.social:88/02026294712878/4979767873/548058
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 SD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 1 SD
-http://aziz.social:88/02026294712878/4979767873/548059
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 SD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| BEIN CUP ASIA 2 SD
-http://aziz.social:88/02026294712878/4979767873/548060
-#EXTINF:-1 tvg-id="" tvg-name="DE| SPORTDIGITAL FUSSBALL FHD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", DE| SPORTDIGITAL FUSSBALL FHD
-http://line.greatstar.me/play/live.php?mac=00:1A:79:93:8A:C8&stream=411534&extension=ts
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR➾ SPOR SMART FHD ⚽️" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png" group-title="ASIAN CUP 2024", TR➾ SPOR SMART FHD ⚽️
-http://line.greatstar.me/play/live.php?mac=00:1A:79:93:8A:C8&stream=913376&extension=ts
-#EXTINF:-1 tvg-id="spor.smart.tr" tvg-name="TR221:SMART SPOR 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR221FOXTV.png" group-title="ASIAN CUP 2024", SMART SPOR 1
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/32848
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC 1 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="ASIAN CUP 2024", |AR| SSC 1 HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=469895&extension=ts
-
-===========AFRICA CUP 2024======================
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024", FR| BEIN SPORT 1 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=2816&extension=ts
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024", FR| BEIN SPORT 2 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=2818&extension=ts
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024", TR| S SPORT HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=57721&extension=ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| BEIN SPORTS MAX 5 EN 4K" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024", |EN| BEIN SPORTS MAX 5 EN 4K
-http://aziz.social:88/02026294712878/4979767873/544131
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| BEIN SPORTS MAX 5 EN HD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-HD.png" group-title="AFRICA CUP 2024", |EN| BEIN SPORTS MAX 5 EN HD
-http://aziz.social:88/02026294712878/4979767873/544132
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| BEIN SPORTS MAX 5 EN SD" tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-SD.png" group-title="AFRICA CUP 2024", |EN| BEIN SPORTS MAX 5 EN SD
-http://aziz.social:88/02026294712878/4979767873/544133
-
-
 ==========BEIN SPORTS HD============
 
 #EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="BEIN SPORTS GLOBAL FHD K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS GLOBAL FHD K
@@ -264,32 +225,30 @@ http://ktpremium.com:2095/PPT6832/62843/73607
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIA", Kompas TV ID
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683194&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683194&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="INDONESIA", KOMPAS TV
-#http://37.49.225.197:8080/F33476/7458dae3/165060
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683194&extension=ts&play_token=GVZS088tcf
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONESIA", ANTV
 #http://37.49.225.197:8080/F33476/7458dae3/165072
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683153&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7 HD
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683116&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683116&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144556368_b744100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="INDONESIA", TRANS TV HD
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683100&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683100&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1274875783_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTIHD
 http://muka03.wanicelife.com:8880/DYJ14M2343/54768536/60479
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTI
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683099&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTIID
 http://ktpremium.com:2095/PPT6832/62843/73606
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV HD
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683098&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNC TV
 http://ktpremium.com:2095/PPT6832/62843/73616
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA", GTV HD
@@ -302,7 +261,7 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="INDONESIA", TV One
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="INDONESIA", Metro TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683181&extension=ts&play_token=GVZS088tcf 
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683181&extension=ts&play_token=GVZS088tcf 
 #EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONESIA", Net TV
 http://103.152.118.53:8000/oxygen/nettv-hd/index.m3u8?token=J6f9LiQpR54w8nrE
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/iNews%20SD-FirstMedia-Chl-65.jpg" group-title="INDONESIA", INews
@@ -325,10 +284,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60484 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="INDONESIA", Jak TV
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8 
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683180&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="INDONESIA", JTV
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683115&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683115&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="INDONESIA", Berita Satu
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60476
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="INDONESIA", Entertainment
@@ -391,7 +350,7 @@ http://37.49.225.197:8080/F33476/7458dae3/298564
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="INDONESIA", Animax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animax.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="INDONESIA", Animax ID
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683165&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png", Aniplus (*)
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png", Aniplus
@@ -695,11 +654,11 @@ https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=4
 http://175.158.62.142:8888/stream/channelid/919001352?ticket=06A86AF8AFCE045788926DD82A34AB0EA53680EB&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="MOVIES", Cinemachi Extra
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683161&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683161&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="MOVIES", Cinemachi Max
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683173&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683173&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="MOVIES", Cinemachi Kids
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683085&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683085&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thrill Dens
 http://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
@@ -1341,9 +1300,9 @@ http://37.49.225.197:8080/F33476/7458dae3/165105
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT 2 ID
 http://37.49.225.197:8080/F33476/7458dae3/298506
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683139&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683139&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="SPORTS", BEIN SPORT 2
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683138&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:70:4A:22&stream=683138&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2
