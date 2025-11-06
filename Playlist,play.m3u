@@ -3207,915 +3207,916 @@ http://rasifm.onlivestreaming.net:9060/live
 #EXTINF:-1 group-title="RADIO INDO",Radio Global FM 96,5 - Bali
 https://audiostreamserver.indonesiastreaming.com/globalfm
 #EXT-X-RATING:0
-#EXTINF:-1, group-title="RADIO INDO"GEMA NIRWANA - 105.1 FM Samarinda
+#EXTINF:-1, group-title="RADIO INDO",GEMA NIRWANA - 105.1 FM Samarinda
 https://audiostreamserver.indonesiastreaming.com/gemanirwanafm
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Gembira Raya Jaya - 104.3 FM Samarinda
+#EXTINF:-1 group-title="RADIO INDO",Radio Gembira Raya Jaya - 104.3 FM Samarinda
 https://audiostreamserver.indonesiastreaming.com/grj1043fm
 #EXT-X-RATING:0
-#EXTINF:-1,102.7 MQFM Bandung
+#EXTINF:-1 group-title="RADIO INDO",102.7 MQFM Bandung
 https://mqfmstreaming.kamil.web.id/;
 #EXT-X-RATING:5
-#EXTINF:-1,92.3 MQFM Jogja
+#EXTINF:-1 group-title="RADIO INDO",92.3 MQFM Jogja
 https://mqfmstreaming.kamil.web.id/jogja/;
 #EXT-X-RATING:0
-#EXTINF:-1,92.1 MQFM Solo
+#EXTINF:-1 group-title="RADIO INDO",92.1 MQFM Solo
 https://audiostreamserver.indonesiastreaming.com/mqfm
 #EXT-X-RATING:0
-#EXTINF:-1,Beoli 101.9 FM Bandar Lampung
+#EXTINF:-1 group-title="RADIO INDO",Beoli 101.9 FM Bandar Lampung
 https://azura2.primastream.com:8010/radio.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Kharisma 105.9 FM Bandar Lampung
+#EXTINF:-1 group-title="RADIO INDO",Kharisma 105.9 FM Bandar Lampung
 https://azura2.primastream.com:8020/radio.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Saburai 106.3 FM
+#EXTINF:-1 group-title="RADIO INDO",Saburai 106.3 FM
 https://i.klikhost.com/8198/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Isykarima
+#EXTINF:-1 group-title="RADIO INDO",Radio Isykarima
 https://ssg.streamingmurah.com:8406/;
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Fajri
+#EXTINF:-1 group-title="RADIO INDO",Radio Fajri
 https://live.radioislam.xyz:10998/;
 #EXT-X-RATING:0
-#EXTINF:-1,Kanal BC
+#EXTINF:-1 group-title="RADIO INDO",Kanal BC
 https://stream01-ssl.arenastreaming.com:8057/live
 #EXT-X-RATING:0
-#EXTINF:-1,Petra FM Jogja
+#EXTINF:-1 group-title="RADIO INDO",Petra FM Jogja
 https://petrafmjogja.ddns.net:8888/stream.aac
 #EXT-X-RATING:5
-#EXTINF:-1,102.7 MTB FM Surabaya
+#EXTINF:-1 group-title="RADIO INDO",102.7 MTB FM Surabaya
 https://c4.siar.us:8095/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Camajaya FM
+#EXTINF:-1 group-title="RADIO INDO",Camajaya FM
 https://ssg.streamingmurah.com:8078/;
 #EXT-X-RATING:0
-#EXTINF:-1,Mandarin Station 98.3 FM
+#EXTINF:-1 group-title="RADIO INDO",Mandarin Station 98.3 FM
 https://stream01-ssl.arenastreaming.com:8043/stream
 #EXT-X-RATING:0
-#EXTINF:-1,95.5RASfm
+#EXTINF:-1 group-title="RADIO INDO",95.5RASfm
 https://i.klikhost.com/9006/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Suara Pantura FM
+#EXTINF:-1 group-title="RADIO INDO",Suara Pantura FM
 http://mtamedia.net:1038/;
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Suara Kesuma
+#EXTINF:-1 group-title="RADIO INDO",Radio Suara Kesuma
 http://mtamedia.net:1055/;
 #EXT-X-RATING:0
-#EXTINF:-1,Memora Prambors Manado
+#EXTINF:-1 group-title="RADIO INDO",Memora Prambors Manado
 http://i.klikhost.com:9044/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,K-Lite FM Bandung
+#EXTINF:-1 group-title="RADIO INDO",K-Lite FM Bandung
 https://svara-stream.radioddns.net/bandung_klitefm_acc
 #EXT-X-RATING:0
-#EXTINF:-1,Mara FM Bandung
+#EXTINF:-1 group-title="RADIO INDO",Mara FM Bandung
 https://svara-stream.radioddns.net/bandung_marafm
 #EXT-X-RATING:0
-#EXTINF:-1,Megaswara Bogor
+#EXTINF:-1 group-title="RADIO INDO",Megaswara Bogor
 https://live.mgstv.co.id:8010/1
 #EXT-X-RATING:5
-#EXTINF:-1,93.8FM Megaswara Kulonprogo
+#EXTINF:-1 group-title="RADIO INDO",93.8FM Megaswara Kulonprogo
 http://203.30.236.2:8000/megaswarakulonprogo
 #EXT-X-RATING:0
-#EXTINF:-1,Ges Radio
+#EXTINF:-1 group-title="RADIO INDO",Ges Radio
 http://i18.klikhost.net/9184/;
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Samhan Jakarta
+#EXTINF:-1 group-title="RADIO INDO",Radio Samhan Jakarta
 https://a8.siar.us/listen/samhanjakarta/radio.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Radio Idola 92.6 FM (Semarang)
+#EXTINF:-1 group-title="RADIO INDO",Radio Idola 92.6 FM (Semarang)
 https://stream.radioidola.com/listen/idolafm/live
 #EXT-X-RATING:5
-#EXTINF:-1,POP FM Semarang
+#EXTINF:-1 group-title="RADIO INDO",POP FM Semarang
 https://i.klikhost.com/9612/stream
 #EXT-X-RATING:0
-#EXTINF:-1,RCT FM SEMARANG
+#EXTINF:-1 group-title="RADIO INDO",RCT FM SEMARANG
 https://i.klikhost.com/9614/stream
 #EXT-X-RATING:5
-#EXTINF:-1,RADIKS FM SEMARANG
+#EXTINF:-1 group-title="RADIO INDO",RADIKS FM SEMARANG
 https://i.klikhost.com/9624/stream
 #EXT-X-RATING:5
-#EXTINF:-1,POP FM SOLO
+#EXTINF:-1 group-title="RADIO INDO",POP FM SOLO
 https://i.klikhost.com/9134/stream
 #EXT-X-RATING:5
-#EXTINF:-1,SAS FM SOLO
+#EXTINF:-1 group-title="RADIO INDO",SAS FM SOLO
 https://i.klikhost.com/9616/stream
 #EXT-X-RATING:0
-#EXTINF:-1,JPI FM SOLO
+#EXTINF:-1 group-title="RADIO INDO",JPI FM SOLO
 https://i.klikhost.com/9618/stream
 #EXT-X-RATING:5
-#EXTINF:-1,POP FM Jogja
+#EXTINF:-1 group-title="RADIO INDO",POP FM Jogja
 https://i.klikhost.com/9154/stream
 #EXT-X-RATING:5
-#EXTINF:-1,YASIKA FM JOGJA
+#EXTINF:-1 group-title="RADIO INDO",YASIKA FM JOGJA
 https://i.klikhost.com/9610/stream
 #EXT-X-RATING:5
-#EXTINF:-1,PAS FM JAKARTA
+#EXTINF:-1 group-title="RADIO INDO",PAS FM JAKARTA
 https://i.klikhost.com/8266/stream
 #EXT-X-RATING:5
-#EXTINF:-1,POP FM Jakarta
+#EXTINF:-1 group-title="RADIO INDO",POP FM Jakarta
 https://i.klikhost.com/8272/stream
 #EXT-X-RATING:5
-#EXTINF:-1,Pas FM Surabaya
+#EXTINF:-1 group-title="RADIO INDO",Pas FM Surabaya
 http://radio.wow.net.id:8102/stream
 #EXT-X-RATING:0
-#EXTINF:-1,YASIKA FM PURWOKERTO
+#EXTINF:-1 group-title="RADIO INDO",YASIKA FM PURWOKERTO
 https://i.klikhost.com/9606/stream
 #EXT-X-RATING:0
-#EXTINF:-1,POLARIS FM MAGELANG
+#EXTINF:-1 group-title="RADIO INDO",POLARIS FM MAGELANG
 https://i.klikhost.com/9608/stream
 #EXT-X-RATING:0
-#EXTINF:-1,ANITA FM TEGAL
+#EXTINF:-1 group-title="RADIO INDO",ANITA FM TEGAL
 https://i.klikhost.com/9620/stream
 #EXT-X-RATING:0
-#EXTINF:-1,WIJAYA FM CILACAP
+#EXTINF:-1 group-title="RADIO INDO",WIJAYA FM CILACAP
 https://i.klikhost.com/9604/stream
 #EXT-X-RATING:0
-#EXTINF:-1,DAMASHINTA FM PEKALONGAN
+#EXTINF:-1 group-title="RADIO INDO",DAMASHINTA FM PEKALONGAN
 https://i.klikhost.com/9622/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Baiturrahman FM
+#EXTINF:-1 group-title="RADIO INDO",Baiturrahman FM
 https://s7.alhastream.com/radio/8060/radio
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Banda Aceh
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Banda Aceh
 https://stream-node2.rri.co.id/streaming/14/9214/rribandaacehpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,RRI Pro 2 Banda Aceh
+#EXTINF:-1 group-title="RADIO INDO",RRI Pro 2 Banda Aceh
 https://stream-node2.rri.co.id/streaming/14/9214/rribandaacehpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,RRI Pro 4 Banda Aceh
+#EXTINF:-1 group-title="RADIO INDO",RRI Pro 4 Banda Aceh
 https://stream-node2.rri.co.id/streaming/14/9214/rribandaacehpro4.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Rasika USA 105.6 FM
+#EXTINF:-1 group-title="RADIO INDO",Rasika USA 105.6 FM
 https://svara-stream.radioddns.net/rasikafm_stereo
 #EXT-X-RATING:0
-#EXTINF:-1,Heartline Bali
+#EXTINF:-1 group-title="RADIO INDO",Heartline Bali
 https://svara-stream.radioddns.net/bali_heartlineradio_stereo
 #EXT-X-RATING:0
-#EXTINF:-1,Trax FM Palembang
+#EXTINF:-1 group-title="RADIO INDO",Trax FM Palembang
 https://stream.radiojar.com/qv4muvhswk8uv
 #EXT-X-RATING:5
-#EXTINF:-1,TRAX FM SEMARANG
+#EXTINF:-1 group-title="RADIO INDO",TRAX FM SEMARANG
 https://stream.radiojar.com/fr9zqhv80k8uv
 #EXT-X-RATING:5
-#EXTINF:-1,PTPN Radio Solo 99.6 FM
+#EXTINF:-1 group-title="RADIO INDO",PTPN Radio Solo 99.6 FM
 https://ssg.streamingmurah.com:8040/stream
 #EXT-X-RATING:0
-#EXTINF:-1,PASFM Pati
+#EXTINF:-1 group-title="RADIO INDO",PASFM Pati
 http://scg.streamingmurah.com:8886/mp3
 #EXT-X-RATING:0
-#EXTINF:-1,LPPL Gema Soedirman 96.3 FM
+#EXTINF:-1 group-title="RADIO INDO",LPPL Gema Soedirman 96.3 FM
 http://202.65.114.229:9304/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Al Qudwah Cilacap
+#EXTINF:-1 group-title="RADIO INDO",Radio Al Qudwah Cilacap
 http://202.65.114.229:9308/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Radenmas FM
+#EXTINF:-1 group-title="RADIO INDO",Radenmas FM
 http://202.65.114.229:9310/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Prima FM Serang
+#EXTINF:-1 group-title="RADIO INDO",Prima FM Serang
 http://202.65.114.229:9318/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Swara Kenanga
+#EXTINF:-1 group-title="RADIO INDO",Swara Kenanga
 http://202.65.114.229:9326/;stream.nsv
 #EXT-X-RATING:5
-#EXTINF:-1,89.1 Pesona Bara FM
+#EXTINF:-1 group-title="RADIO INDO",89.1 Pesona Bara FM
 http://202.65.114.229:9334/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Argososro 93.2 FM
+#EXTINF:-1 group-title="RADIO INDO",Argososro 93.2 FM
 http://202.65.114.229:9336/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Mitra FM Purwokerto
+#EXTINF:-1 group-title="RADIO INDO",Mitra FM Purwokerto
 http://202.65.114.229:9348/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Paduka FM Purwokerto
+#EXTINF:-1 group-title="RADIO INDO",Radio Paduka FM Purwokerto
 http://202.65.114.229:9352/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Fast FM Magelang
+#EXTINF:-1 group-title="RADIO INDO",Fast FM Magelang
 https://svara-stream.radioddns.net/magelang_fastfm_stereo
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Patria
+#EXTINF:-1 group-title="RADIO INDO",Radio Patria
 https://streaming.radiopatria.net/radio/8000/patria
 #EXT-X-RATING:0
-#EXTINF:-1,Madama Radio 87.7 FM
+#EXTINF:-1 group-title="RADIO INDO",Madama Radio 87.7 FM
 http://scg.streamingmurah.com:8080/stream
 #EXT-X-RATING:0
-#EXTINF:-1,USM Jaya 101.6 FM (Semarang)
+#EXTINF:-1 group-title="RADIO INDO",USM Jaya 101.6 FM (Semarang)
 https://stream.tujuhcahaya.com/listen/usm_jaya_semarang/radio.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Radio One 88.6 FM
+#EXTINF:-1 group-title="RADIO INDO",Radio One 88.6 FM
 http://pu.klikhost.com:8250/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Venus Makassar 97.6 FM
+#EXTINF:-1 group-title="RADIO INDO",Radio Venus Makassar 97.6 FM
 http://stream.zeno.fm/at9yh6poovqtv
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Duta 90.9 FM Ambon
+#EXTINF:-1 group-title="RADIO INDO",Radio Duta 90.9 FM Ambon
 https://live1.indostreamserver.com:8182/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Ramayana 98.8 FM
+#EXTINF:-1 group-title="RADIO INDO",Ramayana 98.8 FM
 http://i.klikhost.net:8250/stream
 #EXT-X-RATING:5
-#EXTINF:-1,Tjandra Cianjur 100.6 FM
+#EXTINF:-1 group-title="RADIO INDO",Tjandra Cianjur 100.6 FM
 http://live.serverstreaming.net/tjandrafm
 #EXT-X-RATING:0
-#EXTINF:-1,Suara Gratia FM Cirebon
+#EXTINF:-1 group-title="RADIO INDO",Suara Gratia FM Cirebon
 https://ssg.streamingmurah.com:8224/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Kiss FM Medan
+#EXTINF:-1 group-title="RADIO INDO",Kiss FM Medan
 https://live.kissfmmedan.com/kissfm.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Mix Radio 92.9 FM
+#EXTINF:-1 group-title="RADIO INDO",Mix Radio 92.9 FM
 http://103.183.74.81:8700/mixfm
 #EXT-X-RATING:0
-#EXTINF:-1,Raka FM Bandung
+#EXTINF:-1 group-title="RADIO INDO",Raka FM Bandung
 https://cast2.my-control-panel.com/proxy/radioso5/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Classy Net Radio
+#EXTINF:-1 group-title="RADIO INDO",Classy Net Radio
 https://streaming.classynetradio.com:8000/classySD
 #EXT-X-RATING:0
-#EXTINF:-1,Telstar FM
+#EXTINF:-1 group-title="RADIO INDO",Telstar FM
 http://s3.vinhostmedia.com:8040/
 #EXT-X-RATING:0
-#EXTINF:-1,KEILOVE FM
+#EXTINF:-1 group-title="RADIO INDO",KEILOVE FM
 https://s3.alhastream.com:8440/keilove
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Suara Indah 92.1 FM (Bandung)
+#EXTINF:-1 group-title="RADIO INDO",Radio Suara Indah 92.1 FM (Bandung)
 https://suaraindahfm.com:8443/live
 #EXT-X-RATING:0
-#EXTINF:-1,Actari 96.6 FM Ciamis
+#EXTINF:-1 group-title="RADIO INDO",Actari 96.6 FM Ciamis
 http://svara-stream.radioddns.net/ciamis_actarifm_mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Jhonlin Radio 88.2 FM
+#EXTINF:-1 group-title="RADIO INDO",Jhonlin Radio 88.2 FM
 http://jhonlin.myradio.web.id:8668/jhonlin
 #EXT-X-RATING:0
-#EXTINF:-1,Dehills Radio
+#EXTINF:-1 group-title="RADIO INDO",Dehills Radio
 https://sv3.alhasmedia.com/radio/8110/radio
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Mayangkara
+#EXTINF:-1 group-title="RADIO INDO",Radio Mayangkara
 https://streaming.radiopatria.net/radio/8020/mayangkara
 #EXT-X-RATING:0
-#EXTINF:-1,Radio MSTRI 104.2 FM
+#EXTINF:-1 group-title="RADIO INDO",Radio MSTRI 104.2 FM
 https://c2.siar.us:8120/live
 #EXT-X-RATING:0
-#EXTINF:-1,RAU FM
+#EXTINF:-1 group-title="RADIO INDO",RAU FM
 https://svara-stream.radioddns.net/sidempuan_raufm
 #EXT-X-RATING:0
-#EXTINF:-1,RIS FM
+#EXTINF:-1 group-title="RADIO INDO",RIS FM
 http://svara-stream.radioddns.net/pangandaran_risfm
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Volare 103.4 FM
+#EXTINF:-1 group-title="RADIO INDO",Radio Volare 103.4 FM
 http://159.89.202.113:9103/stream
 #EXT-X-RATING:0
-#EXTINF:-1,K Radio 102.9 FM
+#EXTINF:-1 group-title="RADIO INDO",K Radio 102.9 FM
 http://s3.vinhostmedia.com:9308/;stream.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Batam 100.7 FM
+#EXTINF:-1 group-title="RADIO INDO",Radio Batam 100.7 FM
 https://i.klikhost.com:8174/batamfm
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Zoo FM 101.6 (Batam)
+#EXTINF:-1 group-title="RADIO INDO",Radio Zoo FM 101.6 (Batam)
 https://i.klikhost.com:8174/zoofm
 #EXT-X-RATING:0
-#EXTINF:-1,IMI Radio
+#EXTINF:-1 group-title="RADIO INDO",IMI Radio
 https://a1.siar.us/listen/imiradio/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Baladeka 106.3 FM
+#EXTINF:-1 group-title="RADIO INDO",Radio Baladeka 106.3 FM
 http://stream.baladekanews.com:8281/stream
 #EXT-X-RATING:5
-#EXTINF:-1,Radio Cah Ayu Cirebon 96.9 FM
+#EXTINF:-1 group-title="RADIO INDO",Radio Cah Ayu Cirebon 96.9 FM
 https://stream-150.zeno.fm/k05mt590w0hvv?zs=lICsKyDyRKaY4hcfX-1nBQ
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Play 97.5 FM Palembang
+#EXTINF:-1 group-title="RADIO INDO",Radio Play 97.5 FM Palembang
 http://66.96.237.109:8000/
 #EXT-X-RATING:0
-#EXTINF:-1,RJM Mania Pangandaran
+#EXTINF:-1 group-title="RADIO INDO",RJM Mania Pangandaran
 https://live.rjmfm.com:8078/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Sukapura 98,9 FM
+#EXTINF:-1 group-title="RADIO INDO",Radio Sukapura 98,9 FM
 https://svara-stream.radioddns.net/tasik_sukapurafm_mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Orban 90.00 FM Palembang
+#EXTINF:-1 group-title="RADIO INDO",Orban 90.00 FM Palembang
 http://sci.streamingmurah.com:8048/live
 #EXT-X-RATING:0
-#EXTINF:-1,Style Radio 94.6 FM Tasikmalaya
+#EXTINF:-1 group-title="RADIO INDO",Style Radio 94.6 FM Tasikmalaya
 http://stream.stylefmtasik.com:9460/stream
 #EXT-X-RATING:5
-#EXTINF:-1,Maritim 102.6 FM
+#EXTINF:-1 group-title="RADIO INDO",Maritim 102.6 FM
 https://i.klikhost.com/9082/;radio.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Seila 104.3 FM
+#EXTINF:-1 group-title="RADIO INDO",Seila 104.3 FM
 https://stream-174.zeno.fm/wp7gz9u7cm0uv?zs=i_IOt8LEQ7OHcJtHgj3Aag
 #EXT-X-RATING:0
-#EXTINF:-1,Fortuna 90.7 FM
+#EXTINF:-1 group-title="RADIO INDO",Fortuna 90.7 FM
 https://svara-stream.radioddns.net/sukabumi_fortunafm
 #EXT-X-RATING:0
-#EXTINF:-1,PiSS Radio
+#EXTINF:-1 group-title="RADIO INDO",PiSS Radio
 https://svara-stream.radioddns.net/ciamis_pissfm_stereo
 #EXT-X-RATING:0
-#EXTINF:-1,Trirama 93.1 FM Lampung
+#EXTINF:-1 group-title="RADIO INDO",Trirama 93.1 FM Lampung
 http://i.klikhost.net:8706/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Bellasalam
+#EXTINF:-1 group-title="RADIO INDO",Radio Bellasalam
 http://listen.bellasalamfm.com:8760/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Martha FM
+#EXTINF:-1 group-title="RADIO INDO",Martha FM
 https://stream.zeno.fm/o1fbzkao8iotv
 #EXT-X-RATING:0
-#EXTINF:-1,NBS Radio
+#EXTINF:-1 group-title="RADIO INDO",NBS Radio
 https://cdnindo.klikhost.net/8766/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Raka Radio Streaming Indonesia
+#EXTINF:-1 group-title="RADIO INDO",Raka Radio Streaming Indonesia
 http://sci.streamingmurah.com:8196/stream
 #EXT-X-RATING:0
-#EXTINF:-1,Radio online Tulungagung
+#EXTINF:-1 group-title="RADIO INDO",Radio online Tulungagung
 https://stream.zeno.fm/954yxsx00ehvv
 #EXT-X-RATING:5
-#EXTINF:-1,EL SHADDAI FM SOLO
+#EXTINF:-1 group-title="RADIO INDO",EL SHADDAI FM SOLO
 http://shaddai.onlivestreaming.net:9130/live
 #EXT-X-RATING:0
-#EXTINF:-1,Bass FM 93.2 Salatiga
+#EXTINF:-1 group-title="RADIO INDO",Bass FM 93.2 Salatiga
 https://bassfm.radio.yufid.com/;
 #EXT-X-RATING:0
-#EXTINF:-1,MTA FM
+#EXTINF:-1 group-title="RADIO INDO",MTA FM
 http://radio.mtafm.com:1079/;
 #EXT-X-RATING:5
-#EXTINF:-1,Radio Muslim
+#EXTINF:-1 group-title="RADIO INDO",Radio Muslim
 https://streaming.radiomuslim.com/;stream/1м
 #EXT-X-RATING:5
-#EXTINF:-1,Maestro FM Bandung
+#EXTINF:-1 group-title="RADIO INDO",Maestro FM Bandung
 http://maestro.skyline.net.id:10925/radio.maestro
 #EXT-X-RATING:0
-#EXTINF:-1,Metta Solo FM
+#EXTINF:-1 group-title="RADIO INDO",Metta Solo FM
 https://srv1.streamcast.my.id/listen/metta_solo_fm/radio.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Indah Siar Cirebon
+#EXTINF:-1 group-title="RADIO INDO",Radio Indah Siar Cirebon
 http://az2.radioislam.my.id:8150/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Hijrah FM
+#EXTINF:-1 group-title="RADIO INDO",Hijrah FM
 http://streaming.hijrahfm.com/;
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Al Iman
+#EXTINF:-1 group-title="RADIO INDO",Radio Al Iman
 https://radioislamindonesia.com/aliman.mp3?_=2
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Raudlatul Jannah
+#EXTINF:-1 group-title="RADIO INDO",Radio Raudlatul Jannah
 http://live.syaria.net:9306/;stream.nsv
 #EXT-X-RATING:0
-#EXTINF:-1,Radio Kita Cirebon
+#EXTINF:-1 group-title="RADIO INDO",Radio Kita Cirebon
 https://sunnah.radio.yufid.com/;stream.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Gorontalo
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Gorontalo
 https://stream-node1.rri.co.id/streaming/15/9115/rrigorontalopro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Gorontalo
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Gorontalo
 https://stream-node1.rri.co.id/streaming/15/9115/rrigorontalopro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Gorontalo
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Gorontalo
 https://stream-node1.rri.co.id/streaming/15/9115/rrigorontalopro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Pekanbaru
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Pekanbaru
 https://stream-node0.rri.co.id/streaming/12/9012/rripekanbarupro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Pekanbaru
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Pekanbaru
 https://stream-node0.rri.co.id/streaming/12/9012/rripekanbarupro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Pekanbaru
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Pekanbaru
 https://stream-node0.rri.co.id/streaming/12/9012/rripekanbarupro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Purwokerto
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Purwokerto
 https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Purwokerto
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Purwokerto
 https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Jayapura
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Jayapura
 https://stream-node0.rri.co.id/streaming/23/9023/rrijayapurapro1.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Pro 2 RRI Jayapura
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Jayapura
 https://stream-node0.rri.co.id/streaming/23/9023/rrijayapurapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Jayapura
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Jayapura
 https://stream-node0.rri.co.id/streaming/23/9023/rrijayapurapro4.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Pro 1 RRI Surabaya
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Surabaya
 https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro1.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Pro 2 RRI Surabaya
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Surabaya
 https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro2.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Pro 4 RRI Surabaya
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Surabaya
 https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Makassar
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Makassar
 https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Makassar
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Makassar
 https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Makassar
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Makassar
 https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Surakarta
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Surakarta
 https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Surakarta
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Surakarta
 https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Surakarta
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Surakarta
 https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Madiun
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Madiun
 https://stream-node2.rri.co.id/streaming/18/9318/rrimadiunpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Madiun
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Madiun
 https://stream-node2.rri.co.id/streaming/18/9318/rrimadiunpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Mamuju
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Mamuju
 https://stream-node0.rri.co.id/streaming/20/9020/rrimamujupro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Mamuju
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Mamuju
 https://stream-node0.rri.co.id/streaming/20/9020/rrimamujupro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Tanjungpinang
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Tanjungpinang
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Pro 2 RRI Tanjungpinang
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Tanjungpinang
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Tanjungpinang
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Tanjungpinang
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Tahuna
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Tahuna
 https://stream-node2.rri.co.id/streaming/16/9316/rritahunapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Tahuna
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Tahuna
 https://stream-node2.rri.co.id/streaming/16/9316/rritahunapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Merauke
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Merauke
 https://stream-node1.rri.co.id/streaming/36/9136/rrimeraukepro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Merauke
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Merauke
 https://stream-node1.rri.co.id/streaming/36/9136/rrimeraukepro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Pontianak
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Pontianak
 https://stream-node1.rri.co.id/streaming/12/9212/rripontianakpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Pontianak
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Pontianak
 https://stream-node1.rri.co.id/streaming/12/9212/rripontianakpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Pontianak
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Pontianak
 https://stream-node1.rri.co.id/streaming/12/9212/rripontianakpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Palembang
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Palembang
 https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Palembang
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Palembang
 https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Palembang
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Palembang
 https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Banjarmasin
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Banjarmasin
 https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Banjarmasin
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Banjarmasin
 https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Banjarmasin
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Banjarmasin
 https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bogor
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bogor
 https://stream-node2.rri.co.id/streaming/19/9319/rribogorpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Bogor
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Bogor
 https://stream-node2.rri.co.id/streaming/19/9319/rribogorpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Jember
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Jember
 https://stream-node2.rri.co.id/streaming/40/9340/rrijemberpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Jember
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Jember
 https://stream-node2.rri.co.id/streaming/40/9340/rrijemberpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Palu
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Palu
 https://stream-node1.rri.co.id/streaming/14/9114/rripalupro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Palu
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Palu
 https://stream-node1.rri.co.id/streaming/14/9114/rripalupro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Palu
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Palu
 https://stream-node1.rri.co.id/streaming/14/9114/rripalupro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Mataram
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Mataram
 https://stream-node1.rri.co.id/streaming/13/9113/rrimatarampro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Mataram
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Mataram
 https://stream-node1.rri.co.id/streaming/13/9113/rrimatarampro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Mataram
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Mataram
 https://stream-node1.rri.co.id/streaming/13/9113/rrimatarampro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Batam
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Batam
 https://stream-node0.rri.co.id/streaming/25/9125/rribatampro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Batam
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Batam
 https://stream-node0.rri.co.id/streaming/25/9125/rribatampro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sumenep
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sumenep
 https://stream-node0.rri.co.id/streaming/18/9118/rrisumeneppro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Sumenep
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Sumenep
 https://stream-node0.rri.co.id/streaming/18/9118/rrisumeneppro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sumenep
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sumenep
 https://stream-node0.rri.co.id/streaming/18/9118/rrisumeneppro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sorong
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sorong
 https://stream-node1.rri.co.id/streaming/17/9217/rrisorongpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Sorong
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Sorong
 https://stream-node1.rri.co.id/streaming/17/9217/rrisorongpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Fak Fak
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Fak Fak
 https://stream-node2.rri.co.id/streaming/21/9321/rrifakfakpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Fak Fak
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Fak Fak
 https://stream-node2.rri.co.id/streaming/21/9321/rrifakfakpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Semarang
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Semarang
 https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Semarang
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Semarang
 https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Semarang
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Semarang
 https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Ternate
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Ternate
 https://stream-node2.rri.co.id/streaming/15/9215/rriternatepro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Ternate
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Ternate
 https://stream-node2.rri.co.id/streaming/15/9215/rriternatepro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Ternate
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Ternate
 https://stream-node2.rri.co.id/streaming/15/9215/rriternatepro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Ende
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Ende
 https://stream-node1.rri.co.id/streaming/23/9223/rriendepro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Ende
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Ende
 https://stream-node1.rri.co.id/streaming/23/9223/rriendepro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Lhokseumawe
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Lhokseumawe
 https://stream-node1.rri.co.id/streaming/40/9140/rrilhokseumawepro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Lhokseumawe
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Lhokseumawe
 https://stream-node1.rri.co.id/streaming/40/9140/rrilhokseumawepro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Denpasar
+#EXTINF:-1group-title="RADIO INDO",Pro 1 RRI Denpasar
 https://stream-node0.rri.co.id/streaming/21/9021/rridenpasarpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Denpasar
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Denpasar
 https://stream-node0.rri.co.id/streaming/21/9021/rridenpasarpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Denpasar
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Denpasar
 https://stream-node0.rri.co.id/streaming/21/9021/rridenpasarpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Entikong
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Entikong
 https://stream-node2.rri.co.id/streaming/36/9236/rrientikongpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bengkulu
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bengkulu
 https://stream-node2.rri.co.id/streaming/11/9311/rribengkulupro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Bengkulu
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Bengkulu
 https://stream-node2.rri.co.id/streaming/11/9311/rribengkulupro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Bengkulu
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Bengkulu
 https://stream-node2.rri.co.id/streaming/11/9311/rribengkulupro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Manado
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Manado
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Manado
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Manado
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Manado
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Manado
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Kendari
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Kendari
 https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Kendari
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Kendari
 https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Kendari
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Kendari
 https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sabang
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sabang
 https://stream-node1.rri.co.id/streaming/36/9236/rrisabangpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sungailiat
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sungailiat
 https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Sungailiat
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Sungailiat
 https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Sungailiat
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Sungailiat
 https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Palangkaraya
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Palangkaraya
 https://stream-node2.rri.co.id/streaming/12/9312/rripalangkarayapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Palangkaraya
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Palangkaraya
 https://stream-node2.rri.co.id/streaming/12/9312/rripalangkarayapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Palangkaraya
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Palangkaraya
 https://stream-node2.rri.co.id/streaming/12/9312/rripalangkarayapro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Nabire
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Nabire
 https://stream-node0.rri.co.id/streaming/22/9122/rrinabirepro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Nabire
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Nabire
 https://stream-node0.rri.co.id/streaming/22/9122/rrinabirepro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Cirebon
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Cirebon
 https://stream-node2.rri.co.id/streaming/17/9317/rricirebonpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Cirebon
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Cirebon
 https://stream-node2.rri.co.id/streaming/17/9317/rricirebonpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bandung
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bandung
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Bandung
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Bandung
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Bandung
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Bandung
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Jambi
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Jambi
 https://stream-node1.rri.co.id/streaming/11/9211/rrijambipro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Jambi
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Jambi
 https://stream-node1.rri.co.id/streaming/11/9211/rrijambipro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Jambi
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Jambi
 https://stream-node1.rri.co.id/streaming/11/9211/rrijambipro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Biak
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Biak
 https://stream-node0.rri.co.id/streaming/17/9117/rribiakpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Biak
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Biak
 https://stream-node0.rri.co.id/streaming/17/9117/rribiakpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sibolga
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sibolga
 https://stream-node0.rri.co.id/streaming/21/9121/rrisibolgapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Sibolga
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Sibolga
 https://stream-node0.rri.co.id/streaming/21/9121/rrisibolgapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Serui
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Serui
 https://stream-node1.rri.co.id/streaming/22/9222/rriseruipro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Serui
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Serui
 https://stream-node1.rri.co.id/streaming/22/9222/rriseruipro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sintang
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sintang
 https://stream-node0.rri.co.id/streaming/23/9123/rrisintangpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Sintang
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Sintang
 https://stream-node0.rri.co.id/streaming/23/9123/rrisintangpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bukittinggi
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bukittinggi
 https://stream-node1.rri.co.id/streaming/16/9216/rribkttinggipro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Bukittinggi
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Bukittinggi
 https://stream-node1.rri.co.id/streaming/16/9216/rribkttinggipro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Bukittinggi
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Bukittinggi
 https://stream-node1.rri.co.id/streaming/16/9216/rribkttinggipro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bone
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bone
 https://stream-node2.rri.co.id/streaming/37/9237/rribonepro1.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Pro 1 RRI Yogyakarta
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Yogyakarta
 https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro1.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Pro 2 RRI Yogyakarta
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Yogyakarta
 https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro2.mp3
 #EXT-X-RATING:5
-#EXTINF:-1,Pro 4 RRI Yogyakarta
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Yogyakarta
 https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Wamena
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Wamena
 https://stream-node1.rri.co.id/streaming/24/9224/rriwamenapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Wamena
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Wamena
 https://stream-node1.rri.co.id/streaming/24/9224/rriwamenapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sanggau
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sanggau
 https://stream-node2.rri.co.id/streaming/20/9320/rrisanggaupro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Malang
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Malang
 https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Malang
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Malang
 https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Malang
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Malang
 https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Baubau
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Baubau
 https://stream-node1.rri.co.id/streaming/37/9137/web-rribaubaupro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Manokwari
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Manokwari
 https://stream-node1.rri.co.id/streaming/24/9024/rrimanokwaripro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Manokwari
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Manokwari
 https://stream-node1.rri.co.id/streaming/24/9024/rrimanokwaripro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Manokwari
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Manokwari
 https://stream-node1.rri.co.id/streaming/24/9024/rrimanokwaripro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bintuhan
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bintuhan
 https://stream-node2.rri.co.id/streaming/37/9237/rribintuhanpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Padang
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Padang
 https://stream-node0.rri.co.id/streaming/11/9111/rripadangpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Padang
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Padang
 https://stream-node0.rri.co.id/streaming/11/9111/rripadangpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Padang
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Padang
 https://stream-node0.rri.co.id/streaming/11/9111/rripadangpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Ranai
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Ranai
 https://stream-node0.rri.co.id/streaming/24/9124/rriranaipro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Ranai
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Ranai
 https://stream-node0.rri.co.id/streaming/24/9124/rriranaipro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bovendigoel
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bovendigoel
 https://stream-node0.rri.co.id/streaming/36/9036/rribouvenpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Saumlaki
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Saumlaki
 https://stream-node1.rri.co.id/streaming/37/9137/rrisampangpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Meulaboh
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Meulaboh
 https://stream-node2.rri.co.id/streaming/25/9325/rrimeulabohpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Meulaboh
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Meulaboh
 https://stream-node2.rri.co.id/streaming/25/9325/rrimeulabohpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sendawar
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sendawar
 https://stream-node1.rri.co.id/streaming/20/9220/rrisendawarpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Gunungsitoli
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Gunungsitoli
 https://stream-node1.rri.co.id/streaming/25/9225/rrisitolipro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Gunungsitoli
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Gunungsitoli
 https://stream-node1.rri.co.id/streaming/25/9225/rrisitolipro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Singaraja
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Singaraja
 https://stream-node2.rri.co.id/streaming/40/9240/rrisingarajapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Singaraja
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Singaraja
 https://stream-node2.rri.co.id/streaming/40/9240/rrisingarajapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Aceh Singkil
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Aceh Singkil
 https://stream-node1.rri.co.id/streaming/36/9136/rriacehsingkilpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Ambon
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Ambon
 https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Ambon
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Ambon
 https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Ambon
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Ambon
 https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bima
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bima
 https://stream-node0.rri.co.id/streaming/20/9120/rribimapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Samarinda
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Samarinda
 https://stream-node1.rri.co.id/streaming/16/9116/rrisamarindapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Samarinda
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Samarinda
 https://stream-node1.rri.co.id/streaming/16/9116/rrisamarindapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Samarinda
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Samarinda
 https://stream-node1.rri.co.id/streaming/16/9116/rrisamarindapro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Tarakan
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Tarakan
 https://stream-node2.rri.co.id/streaming/23/9323/rritarakanpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Tarakan
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Tarakan
 https://stream-node2.rri.co.id/streaming/23/9323/rritarakanpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Tual
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Tual
 https://stream-node2.rri.co.id/streaming/22/9322/rritualpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Tual
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Tual
 https://stream-node2.rri.co.id/streaming/22/9322/rritualpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Nunukan
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Nunukan
 https://stream-node2.rri.co.id/streaming/36/9336/rrinunukanpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bandar Lampung
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bandar Lampung
 https://stream-node1.rri.co.id/streaming/12/9112/rrilampungpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Bandar Lampung
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Bandar Lampung
 https://stream-node1.rri.co.id/streaming/12/9112/rrilampungpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Bandar Lampung
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Bandar Lampung
 https://stream-node1.rri.co.id/streaming/12/9112/rrilampungpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Kupang
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Kupang
 https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Kupang
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Kupang
 https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Kupang
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Kupang
 https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Nias Selatan
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Nias Selatan
 https://stream-node1.rri.co.id/streaming/20/9220/rriniasselatanpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Banten
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Banten
 https://stream-node0.rri.co.id/streaming/36/9036/rribantenpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Banten
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Banten
 https://stream-node0.rri.co.id/streaming/36/9036/rribantenpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Tuban
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Tuban
 https://stream-node1.rri.co.id/streaming/41/9141/rritubanpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Kediri
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Kediri
 https://stream-node1.rri.co.id/streaming/20/9220/rrikediripro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Takengon
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Takengon
 https://stream-node1.rri.co.id/streaming/11/9111/rritakengonpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Malinau
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Malinau
 https://stream-node2.rri.co.id/streaming/37/9237/rrimalinaupro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Ampana
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Ampana
 https://stream-node2.rri.co.id/streaming/37/9337/rriampanapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Atambua
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Atambua
 https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Atambua
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Atambua
 https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Alor
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Alor
 https://stream-node0.rri.co.id/streaming/41/9041/rrialorpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Labuan Bajo
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Labuan Bajo
 https://stream-node2.rri.co.id/streaming/37/9337/rrilabuanbajopro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Kaimana
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Kaimana
 https://stream-node1.rri.co.id/streaming/36/9236/rrikaimanapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Medan
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Medan
 https://stream-node0.rri.co.id/streaming/11/9011/rrimedanpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Medan
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Medan
 https://stream-node0.rri.co.id/streaming/11/9011/rrimedanpro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 4 RRI Medan
+#EXTINF:-1 group-title="RADIO INDO",Pro 4 RRI Medan
 https://stream-node0.rri.co.id/streaming/11/9011/rrimedanpro4.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sambas
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sambas
 https://stream-node1.rri.co.id/streaming/41/9141/rrisambaspro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sumba
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sumba
 https://stream-node0.rri.co.id/streaming/41/9041/rrisumbapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Toli Toli
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Toli Toli
 https://stream-node2.rri.co.id/streaming/24/9324/rritolitolipro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 2 RRI Toli Toli
+#EXTINF:-1 group-title="RADIO INDO",Pro 2 RRI Toli Toli
 https://stream-node2.rri.co.id/streaming/24/9324/rritolitolipro2.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Tanjung Balai
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Tanjung Balai
 https://stream-node2.rri.co.id/streaming/20/9320/rritjbalaipro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Way Kanan
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Way Kanan
 https://stream-node2.rri.co.id/streaming/37/9237/rriwaykanapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Sungaipenuh
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Sungaipenuh
 https://stream-node0.rri.co.id/streaming/14/9014/rrisngpenuhpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Bula
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Bula
 https://stream-node0.rri.co.id/streaming/20/9020/rribulapro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro 1 RRI Belitung
+#EXTINF:-1 group-title="RADIO INDO",Pro 1 RRI Belitung
 https://stream-node0.rri.co.id/streaming/20/9020/rribelitungpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro1 RRI Bintuni
+#EXTINF:-1 group-title="RADIO INDO",Pro1 RRI Bintuni
 https://stream-node0.rri.co.id/streaming/11/9011/rribintunipro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Pro1 RRI Terminabuan
+#EXTINF:-1 group-title="RADIO INDO",Pro1 RRI Terminabuan
 https://stream-node2.rri.co.id/streaming/24/9324/rriterminabuanpro1.mp3
 #EXT-X-RATING:0
-#EXTINF:-1,Mettaswara 2010
+#EXTINF:-1 group-title="RADIO INDO",Mettaswara 2010
 https://mettaswara.com:8700/m2010
+
 
